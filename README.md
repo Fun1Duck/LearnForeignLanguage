@@ -47,6 +47,18 @@ To prevent I/O locks under concurrent user sessions, data is decoupled across sp
 
 ---
 
+## 📸 Interface & Workflow Preview
+
+| Main Menu & Navigation | Vocabulary Trainer |
+| :---: | :---: |
+| <img src="assets/menu.png" alt="Main Menu" width="380"/> | <img src="assets/exs2.png" alt="Vocabulary Trainer" width="380"/> |
+
+| AI Conversation & Grammar Feedback | LLM Translation |
+| :---: | :---: |
+| <img src="assets/dialog2.png" alt="AI Dialogue" width="380"/> | <img src="assets/text3.png" alt="Translation Check" width="380"/> |
+
+---
+
 ## 📂 Project Structure
 
 ```text
@@ -76,7 +88,7 @@ LearnForeignLanguage/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com
+git clone https://github.com/Fun1Duck/LearnForeignLanguage.git
 cd LearnForeignLanguage
 ```
 
