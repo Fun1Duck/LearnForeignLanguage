@@ -43,7 +43,7 @@ To prevent I/O locks under concurrent user sessions, data is decoupled across sp
 * `users_texts.db` — temporary listening and translation session states.
 * `words.db` — centralized multi-language CEFR vocabulary banks.
 
-<!-- ![ER Diagram](assets/er_diagram.png) -->
+![ER Diagram](assets/er_diagram.png)
 
 ---
 
