@@ -1,0 +1,108 @@
+motherboard [ˈmʌðərˌbɔrd] – материнская плата
+CPU (Central Processing Unit) [ˌsiː piː ˈjuː] – центральный процессор
+GPU (Graphics Processing Unit) [ˌdʒiː piː ˈjuː] – графический процессор
+RAM (Random Access Memory) [ræm] – оперативная память
+SSD (Solid State Drive) [ˌɛs ɛs ˈdiː] – твердотельный накопитель
+HDD (Hard Disk Drive) [ˌeɪtʃ diː ˈdiː] – жёсткий диск
+peripheral [pəˈrɪfərəl] – периферийное устройство
+monitor [ˈmɑnɪtər] – монитор
+keyboard [ˈkiːbɔrd] – клавиатура
+mouse [maʊs] – мышь
+router [ˈraʊtər] – маршрутизатор
+server [ˈsɜrvər] – сервер
+algorithm [ˈælɡəˌrɪðəm] – алгоритм
+API (Application Programming Interface) [ˌeɪ piː ˈaɪ] – программный интерфейс приложения
+backend [ˈbækˌɛnd] – серверная часть
+frontend [ˈfrʌntˌɛnd] – клиентская часть
+bug [bʌɡ] – ошибка (в программе)
+debugging [diːˈbʌɡɪŋ] – отладка
+framework [ˈfreɪmwɜrk] – фреймворк
+IDE (Integrated Development Environment) [ˌaɪ diː ˈiː] – среда разработки
+compiler [kəmˈpaɪlər] – компилятор
+syntax [ˈsɪntæks] – синтаксис
+variable [ˈvɛriəbəl] – переменная
+loop [lup] – цикл
+function [ˈfʌŋkʃən] – функция
+database [ˈdeɪtəˌbeɪs] – база данных
+SQL (Structured Query Language) [ˌɛs kjuː ˈɛl] – язык SQL
+NoSQL [ˌnoʊ ˈɛs kjuː ˈɛl] – NoSQL (нереляционные БД)
+IP address [ˌaɪ ˈpiː əˈdrɛs] – IP-адрес
+DNS (Domain Name System) [ˌdiː ɛn ˈɛs] – система доменных имён
+firewall [ˈfaɪərˌwɔl] – межсетевой экран
+VPN (Virtual Private Network) [ˌviː piː ˈɛn] – виртуальная частная сеть
+encryption [ɪnˈkrɪpʃən] – шифрование
+malware [ˈmælˌwɛr] – вредоносное ПО
+phishing [ˈfɪʃɪŋ] – фишинг
+cybersecurity [ˈsaɪbər sɪˌkjʊrəti] – кибербезопасность
+bandwidth [ˈbændwɪdθ] – пропускная способность
+latency [ˈleɪtənsi] – задержка
+URL (Uniform Resource Locator) [ˌjuː ɑːr ˈɛl] – URL-адрес
+HTTP (Hypertext Transfer Protocol) [ˌeɪtʃ tiː tiː ˈpiː] – протокол HTTP
+HTTPS (HTTP Secure) [ˌeɪtʃ tiː tiː ˈpiː ˈsɛkjər] – протокол HTTPS
+cloud computing [klaʊd kəmˈpjutɪŋ] – облачные вычисления
+SaaS (Software as a Service) [sæs] – ПО как услуга
+PaaS (Platform as a Service) [pæs] – платформа как услуга
+IaaS (Infrastructure as a Service) [ˈaɪæs] – инфраструктура как услуга
+cache [kæʃ] – кеш
+cookie [ˈkʊki] – куки (файл данных)
+responsive design [rɪˈspɑnsɪv dɪˈzaɪn] – адаптивный дизайн
+AI (Artificial Intelligence) [ˌeɪ ˈaɪ] – искусственный интеллект
+machine learning [məˈʃin ˈlɜrnɪŋ] – машинное обучение
+neural network [ˈnʊrəl ˈnɛtwɜrk] – нейронная сеть
+blockchain [ˈblɑkˌtʃeɪn] – блокчейн
+cryptocurrency [ˈkrɪptoʊˌkɜrənsi] – криптовалюта
+IoT (Internet of Things) [ˌaɪ oʊ ˈtiː] – интернет вещей
+VR (Virtual Reality) [ˌviː ˈɑr] – виртуальная реальность
+AR (Augmented Reality) [ˌeɪ ˈɑr] – дополненная реальность
+quantum computing [ˈkwɑntəm kəmˈpjutɪŋ] – квантовые вычисления
+software developer [ˈsɔftˌwɛr dɪˈvɛləpər] – разработчик ПО
+data scientist [ˈdeɪtə ˈsaɪəntɪst] – специалист по данным
+sysadmin (System Administrator) [ˈsɪsˌædmɪn] – системный администратор
+DevOps engineer [ˈdɛvɒps ˌɛndʒɪˈnɪr] – DevOps-инженер
+UX/UI designer [ˌjuː ˈɛks / ˌjuː ˈaɪ dɪˈzaɪnər] – дизайнер интерфейсов
+QA engineer (Quality Assurance) [ˌkjuː ˈeɪ ˌɛndʒɪˈnɪr] – тестировщик
+kernel [ˈkɜrnl] – ядро (ОС)
+shell [ʃɛl] – командная оболочка
+virtual machine [ˈvɜrtʃuəl məˈʃin] – виртуальная машина
+containerization [kənˌteɪnərɪˈzeɪʃən] – контейнеризация
+hypervisor [ˈhaɪpərvaɪzər] – гипервизор
+OOP (Object-Oriented Programming) [ˌoʊ oʊ ˈpiː] – ООП
+functional programming [ˈfʌŋkʃənəl ˈproʊɡræmɪŋ] – функциональное программирование
+agile [ˈædʒəl] – гибкая методология
+scrum [skrʌm] – скрам
+CI/CD (Continuous Integration/Continuous Delivery) [ˌsiː ˈaɪ ˌsiː ˈdiː] – непрерывная интеграция/доставка
+data warehouse [ˈdeɪtə ˈwɛrhaʊs] – хранилище данных
+ETL (Extract, Transform, Load) [ˌiː tiː ˈɛl] – процесс ETL
+data mining [ˈdeɪtə ˈmaɪnɪŋ] – интеллектуальный анализ данных
+big data [ˈbɪɡ ˈdeɪtə] – большие данные
+data lake [ˈdeɪtə leɪk] – озеро данных
+DOM (Document Object Model) [dɑm] – объектная модель документа
+AJAX (Asynchronous JavaScript and XML) [ˈeɪdʒæks] – асинхронный JavaScript и XML
+CMS (Content Management System) [ˌsiː ɛm ˈɛs] – система управления контентом
+REST API [ˈrɛst ˌeɪ piː ˈaɪ] – RESTful API
+GraphQL [ˈɡræf kjuː ɛl] – язык запросов GraphQL
+DDoS (Distributed Denial of Service) [ˌdiː ˈdɒs] – DDoS-атака
+zero-day vulnerability [ˈzɪroʊ deɪ ˌvʌlnərəˈbɪləti] – уязвимость нулевого дня
+penetration testing [ˌpɛnɪˈtreɪʃən ˈtɛstɪŋ] – тестирование на проникновение
+SOC (Security Operations Center) [sɑk] – центр мониторинга безопасности
+SIEM (Security Information and Event Management) [siːm] – система управления событиями безопасности
+IaC (Infrastructure as Code) [ˌaɪ eɪ ˈsiː] – инфраструктура как код
+Kubernetes [ˌkuːbərˈnɛtiːz] – система оркестрации контейнеров
+Docker [ˈdɑkər] – платформа контейнеризации
+microservices [ˈmaɪkroʊˌsɜrvɪsɪz] – микросервисы
+serverless [ˈsɜrvərləs] – серверные вычисления
+edge computing [ˈɛdʒ kəmˈpjutɪŋ] – периферийные вычисления
+digital twin [ˈdɪdʒɪtl twɪn] – цифровой двойник
+metaverse [ˈmɛtəvɜrs] – метавселенная
+Web3 [ˈwɛb θriː] – децентрализованный интернет
+NFT (Non-Fungible Token) [ˌɛn ɛf ˈtiː] – уникальный цифровой актив
+FPGA (Field-Programmable Gate Array) [ˌɛf piː dʒiː ˈeɪ] – программируемая логическая интегральная схема
+ASIC (Application-Specific Integrated Circuit) [ˈeɪsɪk] – специализированная интегральная схема
+heat sink [ˈhit sɪŋk] – радиатор охлаждения
+overclocking [ˈoʊvərklɑkɪŋ] – разгон (компьютерных компонентов)
+thermal throttling [ˈθɜrməl ˈθrɑtlɪŋ] – тепловое троттлинг
+ITIL (Information Technology Infrastructure Library) [ˈaɪtɪl] – библиотека IT-инфраструктуры
+SLA (Service Level Agreement) [ˌɛs ɛl ˈeɪ] – соглашение об уровне сервиса
+BYOD (Bring Your Own Device) [ˌbiː waɪ oʊ ˈdiː] – политика использования личных устройств
+ROI (Return on Investment) [ˌɑr oʊ ˈaɪ] – возврат инвестиций
+KPI (Key Performance Indicator) [ˌkeɪ piː ˈaɪ] – ключевой показатель эффективности

@@ -1,0 +1,52 @@
+cybersecurity [ˈsaɪbərsɪˌkjʊrəti] – кибербезопасность
+information security [ˌɪnfərˈmeɪʃən sɪˈkjʊrəti] – информационная безопасность
+threat [θrɛt] – угроза
+vulnerability [ˌvʌlnərəˈbɪləti] – уязвимость
+exploit [ɪkˈsplɔɪt] – эксплойт
+zero-day [ˈzɪroʊ deɪ] – уязвимость нулевого дня
+attack vector [əˈtæk ˈvɛktər] – вектор атаки
+payload [ˈpeɪloʊd] – вредоносная нагрузка
+phishing [ˈfɪʃɪŋ] – фишинг
+ransomware [ˈrænsəmˌwɛr] – ransomware (программа-вымогатель)
+malware [ˈmælwɛr] – вредоносное ПО
+spyware [ˈspaɪˌwɛr] – шпионское ПО
+DDoS (Distributed Denial of Service) [ˌdiːˈdɒs] – DDoS-атака
+MITM (Man-in-the-Middle) [ˈmɪtˌmɪdəl] – атака «человек посередине»
+brute force attack [ˌbrut ˈfɔrs əˈtæk] – атака перебором
+SQL injection [ˌɛs kjuː ˈɛl ɪnˈdʒɛkʃən] – SQL-инъекция
+XSS (Cross-Site Scripting) [ˌɛks ɛs ˈɛs] – межсайтовый скриптинг
+firewall [ˈfaɪərwɔːl] – межсетевой экран
+antivirus [ˈæntiˌvaɪrəs] – антивирус
+encryption [ɪnˈkrɪpʃən] – шифрование
+VPN (Virtual Private Network) [ˌviː piː ˈɛn] – VPN
+2FA (Two-Factor Authentication) [ˌtuː ˈfæktər ɔːˌθɛntɪˈkeɪʃən] – двухфакторная аутентификация
+IDS (Intrusion Detection System) [ˌaɪ diː ˈɛs] – система обнаружения вторжений
+IPS (Intrusion Prevention System) [ˌaɪ piː ˈɛs] – система предотвращения вторжений
+SIEM (Security Information and Event Management) [siːm] – система мониторинга безопасности
+sandbox [ˈsændbɒks] – песочница
+cryptography [krɪpˈtɒɡrəfi] – криптография
+hash function [ˈhæʃ ˌfʌŋkʃən] – хеш-функция
+symmetric encryption [sɪˈmɛtrɪk ɪnˈkrɪpʃən] – симметричное шифрование
+asymmetric encryption [ˌeɪsɪˈmɛtrɪk ɪnˈkrɪpʃən] – асимметричное шифрование
+SSL/TLS [ˌɛs ɛs ˈɛl / ˌtiː ɛl ˈɛs] – протоколы SSL/TLS
+digital signature [ˈdɪdʒɪtəl ˈsɪɡnətʃər] – цифровая подпись
+PKI (Public Key Infrastructure) [ˌpiː keɪ ˈaɪ] – инфраструктура открытых ключей
+GDPR (General Data Protection Regulation) [ˌdʒiː diː piː ˈɑːr] – GDPR (регламент защиты данных)
+ISO 27001 [ˌaɪ ɛs ˈoʊ ˈtwɛnti ˈsɛvən ˈoʊ ˈwʌn] – стандарт ISO 27001
+penetration testing [ˌpɛnɪˈtreɪʃən ˈtɛstɪŋ] – тестирование на проникновение
+red team [ˈrɛd tiːm] – «красная команда» (атакующие)
+blue team [ˈbluː tiːm] – «синяя команда» (защитники)
+SOC (Security Operations Center) [sɒk] – центр мониторинга безопасности
+incident response [ˈɪnsɪdənt rɪˈspɒns] – реагирование на инциденты
+white hat [ˈwaɪt hæt] – «белый хакер»
+black hat [ˈblæk hæt] – «черный хакер»
+grey hat [ˈɡreɪ hæt] – «серый хакер»
+hacktivist [ˈhæktɪvɪst] – хактивист
+script kiddie [ˈskrɪpt ˌkɪdi] – неопытный хакер
+botnet [ˈbɒtnɛt] – ботнет
+backdoor [ˈbækdɔːr] – бэкдор
+social engineering [ˈsoʊʃəl ˌɛndʒɪˈnɪrɪŋ] – социальная инженерия
+data breach [ˈdeɪtə briːtʃ] – утечка данных
+threat intelligence [θrɛt ɪnˈtɛlɪdʒəns] – разведка угроз
+forensics [fəˈrɛnsɪks] – компьютерная криминалистика
+bug bounty [ˈbʌɡ ˌbaʊnti] – программа вознаграждений за баги

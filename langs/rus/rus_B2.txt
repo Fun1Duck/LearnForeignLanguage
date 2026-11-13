@@ -1,0 +1,3992 @@
+пристально смотреть-stare
+пялиться-stare
+кивать-nod
+клевать носом-nod
+несмотря на это-though
+однако-though
+на-upon
+сразу после-upon
+наклоняться-lean
+опираться-lean
+направляться-head
+возглавлять-head
+распространяться-spread
+разводить-spread
+оружие-weapon
+вооружение-weapon
+контроль-control
+управление-control
+сила-force
+принуждение-force
+вглядываться-gaze
+смотреть пристально-gaze
+ни-nor
+и ... не-nor
+раскачиваться-swing
+размахивать-swing
+мастер-master
+господин-master
+скользить-slide
+сунуть-slide
+темнота-darkness
+тьма-darkness
+грудь-chest
+грудная клетка-chest
+помещать-place
+размещать-place
+улаживать-settle
+устраиваться-settle
+просто-simply
+несложно-simply
+сделка-deal
+договор-deal
+выражение-expression
+выражение лица-expression
+класть-lay
+прокладывать-lay
+далеко-way
+слишком-way
+ровный-even
+четный-even
+собирать-gather
+почерпнуть-gather
+сверкать-flash
+вспыхивать-flash
+немного-slightly
+слегка-slightly
+выстрел-shot
+удар-shot
+растягивать-stretch
+натягивать-stretch
+вздыхать-sigh
+охать-sigh
+нести-bear
+терпеть-bear
+гнуть-bend
+сгибать-bend
+в сторону-aside
+в стороне-aside
+сила-strength
+прочность-strength
+выключенный-off
+снятый-off
+агент-agent
+действующее вещество-agent
+искать-seek
+стремиться-seek
+игнорировать-ignore
+пренебрегать-ignore
+ни-neither
+шептать-whisper
+нашептывать-whisper
+осведомленный-aware
+находящийся в курсе-aware
+предполагать-assume
+принимать-assume
+бороться-struggle
+стараться изо всех сил-struggle
+опущенный-down
+спускающийся-down
+целый-entire
+весь-entire
+опускать-lower
+понижать-lower
+гнев-anger
+злость-anger
+обводить-sweep
+проноситься-sweep
+едва-barely
+только-barely
+разрываться-burst
+врываться-burst
+начальник-chief
+вождь-chief
+дух-spirit
+душа-spirit
+сметь-dare
+дерзать-dare
+клетка-cell
+сота-cell
+блекнуть-fade
+угасать-fade
+крупный-major
+основной-major
+движение-movement
+передвижение-movement
+выживать-survive
+переживать-survive
+слабый-faint
+неясный-faint
+моргать-blink
+мерцать-blink
+лишь-merely
+только-merely
+принадлежащий к той же группе-fellow
+ближний-fellow
+свидетельство-evidence
+данные-evidence
+пламя-flame
+огонь-flame
+мгновенный-instant
+немедленный-instant
+тереть-rub
+протирать-rub
+осторожно-gently
+мягко-gently
+кого-whom
+кому-whom
+выпускать-release
+освобождать-release
+глотать-swallow
+поглощать-swallow
+исчезать-vanish
+пропадать-vanish
+клясться-swear
+ругаться-swear
+поддерживать-back
+пятиться-back
+вытирать-wipe
+протирать-wipe
+причинять-cause
+быть причиной-cause
+странный-odd
+нечетный-odd
+база-base
+основание-base
+видение-vision
+зрение-vision
+припоминать-recall
+вспоминать-recall
+захлопывать-slam
+хлопать-slam
+иначе-otherwise
+в остальном-otherwise
+риск-risk
+угроза-risk
+должен находиться-belong
+быть своим-belong
+честь-honour
+почет-honour
+раскрывать-reveal
+разоблачать-reveal
+побег-escape
+бегство-escape
+колебаться-hesitate
+сомневаться-hesitate
+запястье-wrist
+манжета-wrist
+рассматривать-examine
+исследовать-examine
+легкий-slight
+незначительный-slight
+орать-yell
+кричать-yell
+облегчение-relief
+помощь-relief
+подозревать-suspect
+предполагать-suspect
+мышца-muscle
+мускул-muscle
+слуга-servant
+прислуга-servant
+бить-pound
+колотить-pound
+далекий-distant
+дальний-distant
+джентльмен-gentleman
+господин-gentleman
+чужестранец-alien
+инопланетянин-alien
+дальний-far
+далекий-far
+появляться-emerge
+возникать-emerge
+причина-cause
+повод-cause
+полностью-entirely
+целиком-entirely
+миссия-mission
+командировка-mission
+постукивать-tap
+перехватывать-tap
+досягаемость-reach
+охват-reach
+пуля-bullet
+ядро-bullet
+касаться-concern
+затрагивать-concern
+приходить в голову-occur
+происходить-occur
+сталь-steel
+огниво-steel
+военный-military
+воинский-military
+относиться-regard
+рассматривать-regard
+дрожать-shiver
+вздрагивать-shiver
+разбивать-crack
+трескаться-crack
+извилистый-twisted
+кривой-twisted
+замечать-spot
+обнаруживать-spot
+ползать-crawl
+ползти-crawl
+притворяться-pretend
+делать вид-pretend
+слегка помешанный-touched
+манера-manner
+способ-manner
+дрожать-tremble
+трепетать-tremble
+относиться к-treat
+обращаться с-treat
+веревка-rope
+канат-rope
+ранить-wound
+поранить-wound
+цель-target
+мишень-target
+мужчина-male
+самец-male
+основывать-found
+учреждать-found
+хвост-tail
+конец-tail
+угроза-threat
+опасность-threat
+действительно-truly
+в самом деле-truly
+выжимать-squeeze
+сдавливать-squeeze
+захватывать-grip
+схватить-grip
+бродить-wander
+блуждать-wander
+челюсть-jaw
+зажим-jaw
+молча-silently
+потихоньку-silently
+давление-pressure
+воздействие-pressure
+продлевать-extend
+вытягивать-extend
+тропа-trail
+след-trail
+указывать-indicate
+показывать-indicate
+в конце концов-eventually
+в итоге-eventually
+бояться-fear
+страшиться-fear
+задний-rear
+тыльный-rear
+припасы-supply
+запас-supply
+рана-wound
+ранение-wound
+загружать-load
+заряжать-load
+раб-slave
+невольник-slave
+масса-mass
+месса-mass
+рассвет-dawn
+заря-dawn
+актерский состав-cast
+гипс-cast
+женщина-female
+самка-female
+голый-bare
+пустой-bare
+ответ-response
+отклик-response
+задание-task
+задача-task
+компаньон-companion
+спутник-companion
+бровь-eyebrow
+необходимость-need
+надобность-need
+реагировать-respond
+отвечать-respond
+опускаться на колени-kneel
+становиться на колени-kneel
+пакет-pack
+пачка-pack
+консилиум-council
+совет-council
+данные-data
+факты-data
+источник-source
+первоисточник-source
+лидерство-lead
+поводок-lead
+темп-pace
+скорость-pace
+злой-evil
+дурной-evil
+угрожать-threaten
+запугивать-threaten
+интеллект-intelligence
+разведка-intelligence
+власть-authority
+авторитет-authority
+быстрый взгляд-glance
+взгляд-glance
+капюшон-hood
+капот-hood
+физический-physical
+материальный-physical
+рвать-rip
+распиливать вдоль волокон-rip
+реакция-reaction
+противодействие-reaction
+немедленно-instantly
+тотчас-instantly
+черт-devil
+дьявол-devil
+рассказ-tale
+сказка-tale
+хлопать-slap
+шлепать-slap
+обязанный-bound
+связанный-bound
+видимый-visible
+зримый-visible
+безопасность-safety
+надежность-safety
+потеря-loss
+убыток-loss
+свидетель-witness
+заверитель-witness
+эмоция-emotion
+чувство-emotion
+ужас-terror
+террор-terror
+жертва-victim
+потерпевший-victim
+стрелка-arrow
+стрела-arrow
+трудный-tough
+жесткий-tough
+устойчивый-steady
+стабильный-steady
+кровавый-bloody
+окровавленный-bloody
+бой-fightingсущ.
+схватка-fightingсущ.
+лапа-paw
+ручища-paw
+сигнал-signal
+знак-signal
+таким образом-thus
+так-thus
+ужас-horror
+отвращение-horror
+мудрый-wise
+разумный-wise
+разбивать вдребезги-smash
+разгромить-smash
+особенность-feature
+черты лица-feature
+внутренний-inner
+сокровенный-inner
+хватать-seize
+охватывать-seize
+отмечать-mark
+помечать-mark
+задавать вопрос-question
+подвергать сомнению-question
+желание-desire
+вожделение-desire
+глубоко-deeply
+серьезно-deeply
+маска-mask
+противогаз-mask
+проход-passage
+прохождение-passage
+заявлять-claim
+утверждать-claim
+луч-beam
+балка-beam
+солнечный свет-sunlight
+солнечные лучи-sunlight
+здорово-great
+замечательно-great
+кто бы ни-whoever
+тот-whoever
+кто-whoever
+царапать-scratch
+чесать-scratch
+совать (помещать)-pop
+хлопать-pop
+беспокоить-disturb
+тревожить-disturb
+оболочка-shell
+раковина-shell
+вред-harm
+ущерб-harm
+туман-mist
+пасмурность-mist
+рухнуть-collapse
+рушиться-collapse
+отражать-reflect
+размышлять-reflect
+огромный-vast
+обширный-vast
+благо-sake
+польза-sake
+ценность-worth
+значимость-worth
+ярость-rage
+гнев-rage
+оценивать по достоинству-appreciate
+быть признательным-appreciate
+стандарт-standard
+мерка-standard
+потеть-sweat
+запотевать-sweat
+спускаться-descend
+опуститься-descend
+вооруженный-armed
+отрицать-deny
+отказывать-deny
+пугать-frighten
+страшить-frighten
+близко-closely
+внимательно-closely
+захватывать-capture
+запечатлевать-capture
+наблюдать-observe
+соблюдать-observe
+опознавать-identify
+устанавливать-identify
+доверие-trust
+трест-trust
+заверить-assure
+уверять-assure
+массивный-massive
+огромный-massive
+медицинский-medical
+врачебный-medical
+устройство-device
+приспособление-device
+реальность-reality
+действительность-reality
+след-trace
+отпечаток-trace
+обстоятельство-circumstance
+обстановка-circumstance
+ткань-cloth
+скатерть-cloth
+блокировать-block
+преграждать-block
+бормотать-mutter
+ворчать-mutter
+провод-wire
+проволока-wire
+пробивать-punch
+нажимать (кнопку и т.п.)-punch
+снаряжение-gear
+передача-gear
+справляться с-handle
+управляться-handle
+строение-structure
+структура-structure
+нерв-nerve
+нервы-nerve
+клиент-client
+заказчик-client
+равновесие-balance
+баланс-balance
+умолять-beg
+просить-beg
+напрягать-strain
+стремиться-strain
+поддерживать-maintain
+сохранять-maintain
+гордость-pride
+прайд-pride
+быстро-rapidly
+стремительно-rapidly
+исцелять-heal
+излечивать-heal
+код-code
+кодекс-code
+заявление-statement
+констатация-statement
+радость-joy
+утеха-joy
+пытаться-attempt
+покушаться-attempt
+тревожить-trouble
+беспокоить-trouble
+куст-bush
+кустарник-bush
+простой-mere
+всего лишь-mere
+склон-slope
+наклон-slope
+отделять-separate
+отсоединять-separate
+наматывать-wind
+изгибаться-wind
+лаять-bark
+рявкать-bark
+грязь-mud
+грязи-mud
+беспокойство-concern
+забота-concern
+бедро-hip
+вальма-hip
+теория-theory
+необоснованное предположение-theory
+плотно-tightly
+крепко-tightly
+получать-gain
+обретать-gain
+умственный-mental
+психический-mental
+индивидуальность-individual
+личность-individual
+судебное разбирательство-trial
+испытание-trial
+совершать-commit
+поручать-commit
+гладить-stroke
+поглаживать-stroke
+талия-waist
+пояс-waist
+ограничивать-limit
+лимитировать-limit
+покидать-abandon
+бросать-abandon
+справедливость-justice
+правосудие-justice
+гнаться-chase
+преследовать-chase
+предоставлять-grant
+выдавать-grant
+впечатление-impression
+оттиск-impression
+иметь склонность-tend
+ухаживать-tend
+вина-blame
+порицание-blame
+жевать-chew
+пережевывать-chew
+крепко-tight
+плотно-tight
+паника-panic
+испуг-panic
+претензия-claim
+иск-claim
+невидимый-invisible
+незримый-invisible
+покидать-desert
+дезертировать-desert
+вера-faith
+доверие-faith
+хватка-grip
+захват-grip
+невиновный-innocent
+невинный-innocent
+ритм-beat
+удар-beat
+судьба-fate
+участь-fate
+сопротивляться-resist
+противостоять-resist
+подозрение-suspicion
+подозрительность-suspicion
+отделенный-apart
+разлученный-apart
+естественно-naturally
+разумеется-naturally
+занимать-occupy
+оккупировать-occupy
+внешний-outer
+наружный-outer
+свобода-liberty
+прилавок-counter
+стойка-counter
+очевидно-evidently
+явно-evidently
+одежда-clothingсущ.
+платье-clothingсущ.
+сомневаться-doubt
+колебаться-doubt
+свобода-freedom
+освобождение-freedom
+внутренняя сторона-inside
+обочина-inside
+объединенный-united
+единый-united
+сжимать-tighten
+затянуть-tighten
+отчаянный-desperate
+полный отчаяния-desperate
+подозреваемый-suspect
+колени-lap
+круг трека-lap
+хаос-chaos
+беспорядок-chaos
+предавать-betray
+выдавать-betray
+голый-naked
+неприкрытый-naked
+решительный-determined
+полный решимости-determined
+тепло-warmth
+теплота-warmth
+переулок-lane
+полоса движения-lane
+забор-fence
+ограда-fence
+ускорять-speed
+мчать-speed
+разоблачать-expose
+подвергать (действию)-expose
+впечатлять-impress
+производить впечатление-impress
+приспосабливаться-adjust
+поправлять-adjust
+застрявший-stuck
+приклеенный-stuck
+повиноваться-obey
+слушаться-obey
+инспектор-inspector
+контролер-inspector
+ставка-rate
+темп-rate
+чувствующий сильное желание-eager
+нетерпеливый-eager
+влажный-damp
+сырой-damp
+в отличие от-unlike
+непохоже-unlike
+избавлять-rid
+избавляться-rid
+победа-victory
+выигрыш-victory
+текущий-current
+современный-current
+запускать-launch
+выпускать-launch
+расследование-investigation
+исследование-investigation
+во всяком случае-anyhow
+все равно-anyhow
+таять-melt
+плавиться-melt
+старший-senior
+вышестоящий-senior
+болеть-ache
+ныть-ache
+гражданин-citizen
+житель-citizen
+свистеть-whistle
+насвистывать-whistle
+соглашение-agreement
+договоренность-agreement
+лазер-laser
+лазерная установка-laser
+пот-sweat
+потение-sweat
+способный-capable
+компетентный-capable
+смелость-courage
+мужество-courage
+уверенность-confidence
+доверие-confidence
+лоток-tray
+поднос-tray
+основывать-establish
+устанавливать-establish
+столбец-column
+колонна-column
+намек-hint
+совет-hint
+скупой-mean
+недобрый (злой)-mean
+глупый-foolish
+дурацкий-foolish
+прекращать-cease
+переставать-cease
+влиять-affect
+затрагивать-affect
+ответственность-responsibility
+обязанность-responsibility
+профессионал-professional
+спортсмен-профессионал-professional
+натяжение-tension
+нервное напряжение-tension
+запах-scent
+след-scent
+нация-nation
+страна-nation
+реагировать-react
+воздействовать-react
+рыдать-sob
+всхлипывать-sob
+хлопать-bang
+удариться-bang
+ощущение-feel
+атмосфера-feel
+брызгать-splash
+плескаться-splash
+молодежь-young
+детеныши-young
+с-since
+поскольку-since
+имущество-estate
+недвижимость-estate
+рулить-steer
+направлять-steer
+защита-protection
+покровительство-protection
+замешательство-confusion
+путаница-confusion
+любопытство-curiosity
+редкость-curiosity
+представлять-represent
+олицетворять-represent
+самолет-aircraft
+авиация-aircraft
+странный-weird
+непонятный-weird
+бедро-thigh
+поверхность бедра-thigh
+удовлетворять-satisfy
+устраивать-satisfy
+резко-sharply
+точно-sharply
+успешно-successfully
+с успехом-successfully
+состояние-fortune
+фортуна-fortune
+доказательство-proof
+проверка-proof
+влияние-impact
+воздействие-impact
+чувствующий облегчение-relieved
+нитка-string
+струна-string
+ремесло-craft
+судно-craft
+существование-existence
+наличие-existence
+предоставлять-present
+преподносить-present
+находящийся без сознания-unconscious
+потерявший сознание-unconscious
+эволюция-evolution
+развитие-evolution
+складывать-pile
+сваливать в кучу-pile
+намерение-intention
+цель-intention
+факел-torch
+карманный фонарь-torch
+биологический вид-species
+разновидность-species
+смертельный-deadly
+смертоносный-deadly
+телега-cart
+тележка-cart
+ребро-rib
+мясо на ребрах (кулинария)-rib
+расширять-widen
+увеличиваться-widen
+прочно-firmly
+твердо-firmly
+агрессивный-aggressive
+напористый-aggressive
+фонарик-flashlight
+озадаченный-puzzled
+недоуменный-puzzled
+площадка-landingсущ.
+посадка-landingсущ.
+править-rule
+управлять-rule
+подсказка-clue
+ключ к разгадке-clue
+легкое-lung
+бросаться-dash
+мчаться-dash
+анализ-analysis
+исследование-analysis
+неудача-failure
+провал-failure
+сложный-complex
+комплексный-complex
+немедленный-immediate
+безотлагательный-immediate
+слух-rumour
+молва-rumour
+забастовка-strike
+удар-strike
+клерк-clerk
+служащий-clerk
+жестокий-fierce
+свирепый-fierce
+монитор-monitor
+наблюдатель-monitor
+кирпич-brick
+брусок-brick
+воспитывать-educate
+давать образование-educate
+дуб-oak
+древесина дуба-oak
+ярлык-tag
+бирка-tag
+двигатель-motor
+мотор-motor
+выражать-express
+проявлять-express
+упоминание-mention
+ссылка-mention
+очень-highly
+весьма-highly
+официальный-official
+должностной-official
+иногда-occasionally
+изредка-occasionally
+сарай-shed
+навес-shed
+драгоценный-precious
+дорогой-precious
+раунд-round
+ряд-round
+подозрительный-suspicious
+сомнительный-suspicious
+поздравлять-congratulate
+расследовать-investigate
+наводить справки-investigate
+сознательный-conscious
+находящийся в сознании-conscious
+отвлекать-distract
+рассеивать-distract
+акции-stock
+запас-stock
+насилие-violence
+сила-violence
+иметь значение-matter
+значить-matter
+правовой-legal
+юридический-legal
+развлекать-amuse
+забавлять-amuse
+резюме-brief
+сводка-brief
+шрам-scar
+рубец-scar
+любимец-darling
+дорогой-darling
+бетон-concrete
+сокращаться-shrink
+уменьшаться-shrink
+испытывать недостаток-lack
+недоставать-lack
+внутреннее пространство-interior
+интерьер-interior
+убежище-shelter
+приют-shelter
+где-то в другом месте-elsewhere
+в другом месте-elsewhere
+горе-grief
+печаль-grief
+пригоршня-handful
+горсть-handful
+инцидент-incident
+случай-incident
+сожаление-regret
+раскаяние-regret
+сталкиваться-encounter
+наталкиваться-encounter
+барьер-barrier
+ограждение-barrier
+жесткий-stiff
+резкий (ветер)-stiff
+необычно-unusually
+необыкновенно-unusually
+идиот-idiot
+дурак-idiot
+удаленный-remote
+отдаленный-remote
+губернатор-governor
+правитель-governor
+округ-county
+жители округа-county
+передовой-leading
+столь же-equally
+одинаково-equally
+тем не менее-nevertheless
+однако-nevertheless
+ноготь-nail
+гвоздь-nail
+неуклонно-steadily
+непрерывно-steadily
+корень-root
+источник-root
+попытка-try
+проба-try
+министр-minister
+посланник-minister
+отчаянно-desperately
+в отчаянии-desperately
+хозяин-host
+ведущий-host
+извлекать-extract
+извлечь-extract
+крышка-lid
+веко-lid
+банда-gang
+шайка-gang
+приличный-decent
+пристойный-decent
+дико-wildly
+бурно-wildly
+разъяренный-furious
+взбешенный-furious
+ощущение-sensation
+сенсация-sensation
+по-видимому-apparently
+судя по всему-apparently
+окунать-dip
+опускать-dip
+считать-reckon
+думать-reckon
+удовлетворение-satisfaction
+удовлетворенность-satisfaction
+мешок-sack
+куль-sack
+отпирать-unlock
+разблокировать-unlock
+незначительный-minor
+несовершеннолетний-minor
+фактический-actual
+реальный-actual
+бедствие-disaster
+катастрофа-disaster
+врезаться-bump
+ударять-bump
+подбадривать-cheer
+ободрять-cheer
+путать-confuse
+сбивать с толку-confuse
+ожог-burn
+клеймо-burn
+хранить-file
+подавать-file
+шокировать-shock
+потрясать-shock
+приобретать-purchase
+покупать-purchase
+терпение-patience
+пасьянс-patience
+твердый-solid
+сплошной-solid
+самоубийство-suicide
+самоубийца-suicide
+волна-tide
+прилив-tide
+десятилетие-decade
+десяток-decade
+вина-guilt
+чувство вины-guilt
+зацеплять-hook
+подсовывать-hook
+элемент-element
+стихия-element
+разрушение-destruction
+уничтожение-destruction
+вертикальный-upright
+порядочный-upright
+преследовать-haunt
+часто посещать-haunt
+похороны-funeral
+похоронная процессия-funeral
+ресурс-resource
+ресурсы-resource
+вестибюль-lobby
+холл-lobby
+тонкий-delicate
+хрупкий-delicate
+внешняя сторона-outside
+внешность-outside
+сообщество-community
+населенный пункт-community
+максимум-high
+высшая точка-high
+мера-measure
+часть-measure
+развлечение-amusement
+веселье-amusement
+отчаяние-despair
+безысходность-despair
+лизать-lick
+облизывать-lick
+автоматический-automatic
+автоматизированный-automatic
+репутация-reputation
+слава-reputation
+больничная палата-ward
+подопечный-ward
+территория-territory
+земля-territory
+странно-strangely
+на удивление-strangely
+измерять-measure
+отмерять-measure
+протест-protest
+опротестование-protest
+алмаз-diamond
+бриллиант-diamond
+никто-neither
+ни один-neither
+практически-practically
+почти-practically
+версия-version
+вариант-version
+цивилизация-civilisation
+культура-civilisation
+подход-approach
+приближение-approach
+терпеть-endure
+выдерживать-endure
+пакет-package
+упаковка-package
+глупый-dumb
+немой-dumb
+бесконечный-endless
+нескончаемый-endless
+характер-temper
+вспыльчивость-temper
+драгоценный камень-jewel
+драгоценность-jewel
+изменять-alter
+менять-alter
+постепенно-gradually
+понемногу-gradually
+по всему-throughout
+во всем-throughout
+личность-identity
+тождество-identity
+пар-steam
+испарение-steam
+заманивать в ловушку-trap
+спутник-satellite
+сателлит-satellite
+масштаб-scale
+размер-scale
+насильственный-violent
+сильный-violent
+дневной свет-daylight
+рассвет-daylight
+ошибаться-mistake
+понимать неправильно-mistake
+намеренно-deliberately
+сознательно-deliberately
+объединять-combine
+сочетать-combine
+легенда-legend
+надпись-legend
+так же-same
+одинаково-same
+портить-ruin
+разрушать-ruin
+постоянный-constant
+константный-constant
+безопасный-secure
+надежный-secure
+разводить-breed
+размножаться-breed
+скамейка-bench
+верстак-bench
+упускать из виду-overlook
+проглядеть-overlook
+добиваться-secure
+обезопасить-secure
+травма-injury
+повреждение-injury
+табуретка-stool
+стул-stool
+пресса-press
+пресс-press
+владение-possession
+имущество-possession
+младший-junior
+нижестоящий-junior
+мудрость-wisdom
+здравый смысл-wisdom
+вера-belief
+убеждение-belief
+эффективность-efficiency
+действенность-efficiency
+неподвижный-fixed
+связывать-link
+соединять-link
+наблюдение-observation
+замечание-observation
+мотив-motive
+основание-motive
+обстановка-settingсущ.
+настройки-settingсущ.
+влияние-influence
+воздействие-influence
+значительный-considerable
+большой-considerable
+нарезать ломтиками-slice
+строгать-slice
+формальный-formal
+официальный-formal
+обвинять-accuse
+винить-accuse
+крючок-hook
+хук-hook
+замечание-remark
+высказывание-remark
+потенциальный-potential
+возможный-potential
+слабость-weakness
+недостаток-weakness
+восстанавливать-restore
+реставрировать-restore
+отражение-reflection
+размышление-reflection
+охлаждать-cool
+остывать-cool
+намеченный-intended
+предназначенный-intended
+странно-curiously
+любопытно-curiously
+получать обратно-regain
+восстанавливать-regain
+изгибаться-curve
+искривлять-curve
+освобождать-free
+высвобождать-free
+связь-bond
+узы-bond
+символ-symbol
+знак-symbol
+тщательно-thoroughly
+основательно-thoroughly
+равный-equal
+равноправный-equal
+слой-layer
+уровень-layer
+сеть-network
+сетка-network
+прилив-rush
+спешка-rush
+беспокойный-uneasy
+тревожный-uneasy
+убийство или ранение выстрелом-shootingсущ.
+стрельба-shootingсущ.
+страсть-passion
+страстность-passion
+чистить-peel
+отслаиваться-peel
+мелкий-shallow
+неглубокий-shallow
+испытывать-experience
+переживать-experience
+месть-revenge
+реванш-revenge
+твердый-firm
+крепкий-firm
+фрагмент-fragment
+обломок-fragment
+яд-poison
+отрава-poison
+пропускать-skip
+бежать вприпрыжку-skip
+открытие-discovery
+обнаружение-discovery
+овладевать-acquire
+обзаводиться-acquire
+расширять-expand
+сознание-consciousness
+осознание-consciousness
+подвал-basement
+фундамент-basement
+своеобразный-peculiar
+специфический-peculiar
+соболезнование-sympathy
+сочувствие-sympathy
+фактор-factor
+множитель-factor
+практический-practical
+практичный-practical
+молоток-hammer
+курок-hammer
+верность-loyalty
+преданность-loyalty
+отравлять-poison
+последствие-consequence
+следствие-consequence
+кривая-curve
+изгиб-curve
+редко-seldom
+спотыкаться-trip
+ставить подножку-trip
+отсутствие-absence
+неявка-absence
+изготовление-makingсущ.
+производство-makingсущ.
+страшный-dreadful
+ужасный-dreadful
+подлинный-genuine
+искренний-genuine
+взрыв-explosion
+вспышка-explosion
+топать-stamp
+штамповать-stamp
+продвижение-advance
+аванс-advance
+точно-precisely
+именно-precisely
+раскалывать-split
+расщеплять-split
+строительство-construction
+конструкция-construction
+неловкий-awkward
+неудобный-awkward
+приемник-receiver
+телефонная трубка-receiver
+терминал-terminal
+вокзал-terminal
+искушать-tempt
+уговаривать-tempt
+автоматически-automatically
+машинально-automatically
+лечение-treatment
+обращение-treatment
+абсолютный-absolute
+полный-absolute
+верный-loyal
+преданный-loyal
+нелепый-ridiculous
+смешной-ridiculous
+орех-nut
+псих-nut
+постоянно-constantly
+часто-constantly
+солнечный-solar
+обеспокоенный-concerned
+личность-personality
+характер-personality
+признаваться-confess
+исповедоваться-confess
+рисковать-risk
+отваживаться-risk
+соединение-compound
+комплекс-compound
+хранить-store
+накапливать-store
+виски-whisky
+процедура-procedure
+порядок-procedure
+ловушка-trap
+капкан-trap
+нервно-nervously
+нервозно-nervously
+спокойно-calmly
+хладнокровно-calmly
+функция-function
+назначение-function
+усиление-gain
+прибыль-gain
+бросать-pitch
+устанавливать-pitch
+продвигать-advance
+продвигаться-advance
+ссылка-reference
+упоминание-reference
+эффективный-effective
+действенный-effective
+ужасать-terrify
+пугать-terrify
+почва-soil
+грунт-soil
+продолжительность жизни-lifetime
+целая жизнь-lifetime
+краснеть-blush
+заливаться румянцем-blush
+ерунда-nonsense
+чепуха-nonsense
+разочарование-frustration
+расстройство-frustration
+вмешиваться-interfere
+мешать-interfere
+сохранять-preserve
+консервировать-preserve
+поглощать-absorb
+впитывать-absorb
+помогать-assist
+содействовать-assist
+кусок-bite
+укус-bite
+предок-ancestor
+прародитель-ancestor
+схема-scheme
+план-scheme
+плавно-smoothly
+гладко-smoothly
+охранять-guard
+сторожить-guard
+отправлять куда-либо-ship
+перевозить груз-ship
+оскорблять-offend
+обижать-offend
+религиозный-religious
+верующий-religious
+путешествие-voyage
+плавание-voyage
+оставшийся в живых-survivor
+выживший-survivor
+тонуть-drown
+топить-drown
+описывать подробно-detail
+рассказывать подробно-detail
+запрещать-forbid
+возбранять-forbid
+аспект-aspect
+вид-aspect
+основание-basis
+основа-basis
+охота-huntingсущ.
+поиск-huntingсущ.
+внутренний-internal
+душевный-internal
+богатство-wealth
+изобилие-wealth
+эмоциональный-emotional
+волнующий-emotional
+удваивать-double
+дублировать-double
+наносить удар ножом-stab
+пронзать-stab
+удивление-astonishment
+изумление-astonishment
+восторг-delight
+наслаждение-delight
+перспектива-prospect
+шанс-prospect
+когда-то-sometime
+иногда-sometime
+огромный-tremendous
+потрясающий-tremendous
+очевидный-apparent
+видимый-apparent
+выживание-survival
+пережиток-survival
+погоня-chase
+преследование-chase
+тем временем-meantime
+пока-meantime
+предлагать-propose
+делать предложение-propose
+семя-seed
+семечко-seed
+сочетание-combination
+соединение-combination
+фантазия-fantasy
+фантастика-fantasy
+уверенный-convinced
+последний из двух-latter
+второй из двух-latter
+остальной-remaining
+остаточный-remaining
+задумчивый-thoughtful
+вдумчивый-thoughtful
+оператор-operator
+телефонист-operator
+яхта-yacht
+яхтостроение-yacht
+корм-feed
+трансляция-feed
+проводить-conduct
+вести-conduct
+традиция-tradition
+предание-tradition
+прибыль-profit
+доход-profit
+греть-warm
+нагревать-warm
+сдвиг-shift
+смена-shift
+семья-household
+домохозяйство-household
+составлять список-list
+вносить в список-list
+долг-debt
+заем-debt
+одобрение-approval
+утверждение-approval
+преодолевать-overcome
+одолевать-overcome
+полагаться-rely
+надеяться-rely
+решительно-strongly
+сильно-strongly
+значительно-greatly
+очень-greatly
+игла-needle
+стрелка-needle
+грубо-roughly
+приблизительно-roughly
+хранение-storage
+хранилище-storage
+жюри-jury
+присяжные-jury
+конкретный-specific
+определенный-specific
+шарм-charm
+обаяние-charm
+пропитывать-soak
+впитывать-soak
+соответствовать-suit
+подходить-suit
+контейнер-container
+емкость-container
+замечательный-remarkable
+удивительный-remarkable
+подходящий-appropriate
+соответствующий-appropriate
+спрашивать-inquire
+исследовать-inquire
+протестовать-protest
+заявлять-protest
+впечатляющий-impressive
+производящий глубокое впечатление-impressive
+ошибка-error
+погрешность-error
+наказание-punishment
+кара-punishment
+уединение-privacy
+конфиденциальность-privacy
+одежда-outfit
+наряд-outfit
+нарезать-chop
+рубить-chop
+бой-fight
+борьба-fight
+развязывать-untie
+отвязывать-untie
+запирать-bar
+преграждать-bar
+концепция-concept
+понятие-concept
+беспокойство-anxiety
+тревога-anxiety
+диаграмма-chart
+навигационная карта-chart
+неопределенный-uncertain
+неуверенный-uncertain
+мэр-mayor
+пост мэра-mayor
+небрежно-casually
+случайно-casually
+кризис-crisis
+перелом-crisis
+раз по-times
+умножить на-times
+жизненно важный-vital
+насущный-vital
+яростно-violently
+сильно-violently
+политика-policy
+страховой полис-policy
+марка-brand
+тавро-brand
+буквально-literally
+без преувеличения-literally
+трогательный-moving
+расход-expense
+трата-expense
+любезность-courtesy
+внимание-courtesy
+ошеломленный-astonished
+собирать-compose
+сочинять-compose
+заполучать-obtain
+добиваться-obtain
+сосредоточенность-concentration
+концентрация-concentration
+благоприятствовать-favour
+благоволить-favour
+противопоставлять-oppose
+быть против-oppose
+образец-sample
+проба-sample
+противник-opponent
+соперник-opponent
+подвал-cellar
+погреб-cellar
+миллиард-billion
+объектив-lens
+линза-lens
+разделение-division
+отдел-division
+выравнивать-level
+направлять (нацеливать)-level
+ток-current
+течение-current
+конструировать-construct
+строить-construct
+грустно-sadly
+печально-sadly
+распылять-spray
+обстреливать-spray
+вторжение-invasion
+нашествие-invasion
+заповедник-reserve
+резерв-reserve
+материальный-material
+вещественный-material
+планировать-schedule
+составлять расписание-schedule
+дурачить-fool
+обманывать-fool
+достаточный-sufficient
+существенный-sufficient
+активировать-activate
+приводить в действие-activate
+оскорбление-insult
+инсульт-insult
+часть-portion
+порция-portion
+отвергать-reject
+отклонять-reject
+подъем-rise
+рост-rise
+подозрительно-suspiciously
+с подозрением-suspiciously
+помощь-assistance
+содействие-assistance
+страхование-insurance
+страховая премия-insurance
+наименьший-least
+малейший-least
+комитет-committee
+комиссия-committee
+просачиваться-leak
+протекать-leak
+печать-seal
+пломба-seal
+сюжет-plot
+участок земли-plot
+останки-remains
+руины-remains
+обеспечивать-supply
+снабжать-supply
+изумление-amazement
+удивление-amazement
+покупка-purchase
+приобретение-purchase
+энтузиазм-enthusiasm
+восторженность-enthusiasm
+чувствительный-sensitive
+чуткий-sensitive
+дополнительный-additional
+добавочный-additional
+вторгаться-invade
+оккупировать-invade
+ядерный-nuclear
+атомный-nuclear
+проецировать-project
+излучать (производить впечатление)-project
+зло-evil
+порок-evil
+логический-logical
+логичный-logical
+осторожный-cautious
+осмотрительный-cautious
+поток-flow
+течение-flow
+кислород-oxygen
+нетерпеливый-impatient
+относящийся нетерпимо к чему-либо-impatient
+вдова-widow
+висячая строка-widow
+конфликт-conflict
+противоречие-conflict
+круглый-circular
+круговой-circular
+СМИ (средства массовой информации)-media
+пресса-media
+паниковать-panic
+впадать в панику-panic
+передразнивать-tease
+поддразнивать-tease
+регулировка-adjustment
+настройка-adjustment
+расстегивать-undo
+губить-undo
+ярко-brightly
+блестяще-brightly
+обманывать-cheat
+жульничать-cheat
+решение-fix
+местоположение-fix
+лезвие-blade
+клинок-blade
+критический-critical
+имеющий решающее значение-critical
+преступление-offence
+обида-offence
+стратегия-strategy
+оперативное искусство-strategy
+упрямый-stubborn
+упорный-stubborn
+обеспечивать-ensure
+гарантировать-ensure
+террорист-terrorist
+значительный-significant
+важный-significant
+быстрый-rapid
+скоростной-rapid
+вычислять-calculate
+рассчитывать-calculate
+ритм-rhythm
+ритмичность-rhythm
+паника-scare
+внезапный испуг-scare
+вещать-broadcast
+передавать в эфире-broadcast
+учитывая-considering
+принимая во внимание-considering
+механический-mechanical
+машинальный-mechanical
+рассмотрение-consideration
+соображение-consideration
+заставлять-force
+вынуждать-force
+кривой-curved
+криволинейный-curved
+совпадение-coincidence
+случайное стечение обстоятельств-coincidence
+совместный-joint
+совмещенный-joint
+посол-ambassador
+представитель-ambassador
+наслаждаться-delight
+восхищать-delight
+идентичный-identical
+точно такой же-identical
+имеющий определенную форму-shaped
+откровенно-frankly
+открыто-frankly
+червь-worm
+глист-worm
+спрей-spray
+брызги-spray
+неуклюжий-clumsy
+топорный-clumsy
+рост-growth
+прирост-growth
+исключение-exception
+особая ситуация-exception
+невероятно-incredibly
+поразительно-incredibly
+пруд-pond
+водоем-pond
+профиль-profile
+краткий биографический очерк-profile
+широко-wide
+тонна-ton
+огромное количество-ton
+сотрудничать-cooperate
+содействовать-cooperate
+грязный-muddy
+мутный-muddy
+распространение-spread
+пастообразные продукты-spread
+прозрачный-transparent
+очевидный-transparent
+предположительно-presumably
+вероятно-presumably
+изолировать-isolate
+выделять-isolate
+бешено-furiously
+яростно-furiously
+искусственный-artificial
+притворный-artificial
+сортировать-sort
+классифицировать-sort
+пересматривать-review
+рассматривать-review
+сексуальный-sexual
+половой-sexual
+обращение-appeal
+призыв-appeal
+вещество-substance
+содержание-substance
+молочные продукты-dairy
+маслодельня-dairy
+элегантный-elegant
+изысканный-elegant
+плотный-dense
+густой-dense
+относительно-relatively
+сравнительно-relatively
+страдание-misery
+нищета-misery
+мощность-capacity
+способность-capacity
+привязанность-affection
+любовь-affection
+усыновлять-adopt
+принимать-adopt
+лжец-liar
+врун-liar
+терраса-terrace
+уступ-terrace
+тональность звука-pitch
+поле-pitch
+продуктивный-productive
+плодотворный-productive
+точный-precise
+четкий-precise
+свободно-freely
+открыто-freely
+лиса-fox
+лис-fox
+вновь-newly
+недавно-newly
+моральный-moral
+нравственный-moral
+утверждать-state
+констатировать-state
+отклонять-decline
+уменьшаться-decline
+веко-eyelid
+обязательно-necessarily
+неизбежно-necessarily
+крайний-extreme
+чрезвычайный-extreme
+человечество-mankind
+мужской пол-mankind
+бормотать-mumble
+заплетаться-mumble
+опухший-swollen
+вздувшийся-swollen
+серьезный-severe
+суровый-severe
+незаконный-illegal
+нелегальный-illegal
+защитный-protective
+оградительный-protective
+торговать-trade
+обменивать-trade
+незнакомый-unfamiliar
+непривычный-unfamiliar
+портрет-portrait
+изображение-portrait
+ржавый-rusty
+заржавленный-rusty
+низкий уровень-low
+падение в жизни (карьере)-low
+определение-determination
+решительность-determination
+умственно-mentally
+мысленно-mentally
+несомненно-undoubtedly
+безусловно-undoubtedly
+быть свидетелем-witness
+служить уликой-witness
+дело-affair
+любовная интрижка-affair
+корпорация-corporation
+акционерное общество-corporation
+оспаривать-challenge
+бросать вызов-challenge
+замечать-remark
+отмечать-remark
+боль-hurt
+обида-hurt
+родственный-related
+связанный с ним-related
+трус-coward
+революция-revolution
+оборот-revolution
+оскорблять-insult
+обижать-insult
+обратиться с призывом-appeal
+апеллировать-appeal
+уверенность-certainty
+несомненный факт-certainty
+уникальный-unique
+исключительный-unique
+отменять (приговор-reverse
+решение и т.п.)-reverse
+менять местами-reverse
+сплетня-gossip
+сплетник-gossip
+несчастный-unfortunate
+неудачливый-unfortunate
+луч-ray
+скат-ray
+клониться-slope
+крениться-slope
+доброта-kindness
+любезность-kindness
+двигаться с крейсерской скоростью-cruise
+проезжать-cruise
+технический-technical
+специальный-technical
+треть-third
+третья часть-third
+истощение-exhaustion
+сильная усталость-exhaustion
+олень-deer
+лань-deer
+очертание-outline
+изложение-outline
+практически-virtually
+фактически-virtually
+острый-pointed
+критический-pointed
+ассоциация-association
+связь-association
+подвешивать-suspend
+приостанавливать-suspend
+превращать-convert
+переводить-convert
+дисциплина-discipline
+дисциплинированность-discipline
+трагедия-tragedy
+трагизм-tragedy
+объяснять-account
+производство-production
+производительность-production
+ход-stroke
+удар-stroke
+фаза-phase
+этап-phase
+микрофон-microphone
+платеж-payment
+оплата-payment
+в настоящее время-currently
+в настоящий момент-currently
+приоритет-priority
+первоочередная задача-priority
+оправдывать-justify
+объяснять-justify
+вдохновлять-inspire
+внушать-inspire
+возражение-objection
+неодобрение-objection
+значок-badge
+знак-badge
+стрелять-fire
+увольнять-fire
+поглощать-consume
+пожирать-consume
+конечный-ultimate
+высший-ultimate
+гнилой-rotten
+тухлый-rotten
+одновременно-simultaneously
+вместе-simultaneously
+степень-extent
+экстент-extent
+награждать-reward
+поощрять-reward
+работать-function
+функционировать-function
+уходить в отставку-resign
+отказываться-resign
+сравнение-comparison
+аналогия-comparison
+подогреть-heat
+нагревать-heat
+развитый-developed
+развитой-developed
+смущение-embarrassment
+затруднение-embarrassment
+техобслуживание-maintenance
+поддержание-maintenance
+очарованный-fascinated
+увлеченный-fascinated
+оценивать-estimate
+составлять смету-estimate
+питать энергией-power
+запитывать-power
+принимать душ-shower
+осыпать-shower
+лекарство-cure
+лечение-cure
+доминировать-dominate
+преобладать-dominate
+ноготь-fingernail
+ноготь пальца-fingernail
+тишина-quiet
+безмолвие-quiet
+печаль-sadness
+уныние-sadness
+столкновение-encounter
+неожиданная встреча-encounter
+смертельный-fatal
+роковой-fatal
+удачливый-fortunate
+счастливый-fortunate
+происхождение-origin
+источник-origin
+первоначально-originally
+оригинально-originally
+сажать на цепь-chain
+приковывать цепью-chain
+горячо-eagerly
+охотно-eagerly
+демонстрировать-demonstrate
+доказывать-demonstrate
+чудо-miracle
+удивительная вещь-miracle
+постоянный житель-resident
+резидент-resident
+абсурдный-absurd
+нелепый-absurd
+генерировать-generate
+производить-generate
+превращать-transform
+трансформировать-transform
+комиссия-commission
+комиссионные-commission
+хорошо-nicely
+приятно-nicely
+следователь-investigator
+сыщик-investigator
+арест-arrest
+задержание-arrest
+определенный-definite
+четкий-definite
+синяк-bruise
+ушиб-bruise
+этаж-storey
+уровень здания-storey
+маскировка-disguise
+измененная внешность-disguise
+живая изгородь-hedge
+изгородь-hedge
+верный-faithful
+преданный-faithful
+ссора-quarrel
+спор-quarrel
+замышлять-plot
+прокладывать (курс)-plot
+сценарий-script
+подлинник-script
+строго-strictly
+точно-strictly
+колония-colony
+поселение-colony
+анализировать-analyse
+исследовать-analyse
+скрывать-disguise
+маскировать-disguise
+костюм-costume
+одежда-costume
+закрывать со всех сторон-enclose
+окружать-enclose
+очерчивать-outline
+обрисовывать-outline
+тревожно-anxiously
+с волнением-anxiously
+богатый-wealthy
+состоятельный-wealthy
+смесь-mixture
+микстура-mixture
+окружение-surroundings
+местный-native
+родной-native
+хирургия-surgery
+хирургическая операция-surgery
+яркий-vivid
+насыщенный-vivid
+прекрасно-fine
+отлично-fine
+довольный-content
+вспышка-flash
+восхищение-admiration
+восторг-admiration
+раненый-injured
+поврежденный-injured
+обманывать-deceive
+обмануть-deceive
+наркотик-drug
+лекарство-drug
+гарантия-guarantee
+поручительство-guarantee
+химический-chemical
+трюм-hold
+удержание-hold
+живой-living
+жилой-living
+медь-copper
+медная монета-copper
+снаряжать-equip
+оборудовать-equip
+неправильность-wrong
+неправота-wrong
+ипотека-mortgage
+закладная-mortgage
+редактор-editor
+монтажер-editor
+пропасть-gulf
+залив-gulf
+лорд-lord
+господин-lord
+атомный-atomic
+элементарный-atomic
+определять-define
+устанавливать-define
+избирать-elect
+выбирать-elect
+гудок-horn
+горн-horn
+безвредный-harmless
+безобидный-harmless
+дилер-dealer
+торговец-dealer
+умелый-skilled
+опытный-skilled
+мистический-mysterious
+таинственный-mysterious
+резервная копия-backup
+поддержка-backup
+изрядно-considerably
+значительно-considerably
+балансировать-balance
+сопоставлять-balance
+окрестный-surrounding
+защитник-defender
+сторонник-defender
+рыбак-fisherman
+рыболов-fisherman
+очевидный-evident
+явный-evident
+неосведомлённый-unaware
+не знающий-unaware
+нетерпеливо-impatiently
+с нетерпением-impatiently
+институт-institute
+учреждение-institute
+сосна-pine
+подводный-underwater
+создание-creation
+творение-creation
+цикл-cycle
+велосипед-cycle
+скромный-modest
+небольшой-modest
+в основном-basically
+по существу-basically
+пунш-punch
+удар (кулаком)-punch
+милый-cute
+очаровательный-cute
+депрессия-depression
+снижение-depression
+заброшенный-abandoned
+покинутый-abandoned
+справляться-cope
+справиться-cope
+терпеть-tolerate
+допускать-tolerate
+драматический-dramatic
+резкий-dramatic
+орел-eagle
+золотая монета в 10 долларов-eagle
+страдание-sufferingсущ.
+переживание-sufferingсущ.
+посвящать-devote
+уделять-devote
+замена-replacement
+заменитель-replacement
+болезнь-sickness
+тошнота-sickness
+чесаться-itch
+зудеть-itch
+терпеливо-patiently
+располагать по порядку-range
+охватывать диапазон-range
+хвастаться-boast
+гордиться-boast
+председатель-chairman
+председатель комиссии-chairman
+доброволец-volunteer
+волонтер-volunteer
+загар-tan
+смуглость-tan
+головокружительный-dizzy
+чувствующий головокружение-dizzy
+сочувственный-sympathetic
+симпатический-sympathetic
+большинство-majority
+совершеннолетие-majority
+сотрудничество-cooperation
+взаимодействие-cooperation
+поливать-water
+поить-water
+сердитый-irritated
+философия-philosophy
+философский подход к жизни-philosophy
+различать-distinguish
+отличать-distinguish
+перо-feather
+оперение-feather
+частота-frequency
+частотность-frequency
+свисток-whistle
+свист-whistle
+отверстие-openingсущ.
+проем-openingсущ.
+идеальный-ideal
+идеально подходящий-ideal
+насиловать-rape
+насильничать-rape
+заговор-conspiracy
+конспирация-conspiracy
+высокомерный-arrogant
+заносчивый-arrogant
+визуальный-visual
+зрительный-visual
+сдержанный-reserved
+резервный-reserved
+признание-confession
+исповедь-confession
+вычисление-calculation
+расчет-calculation
+варьироваться-vary
+меняться-vary
+все больше и больше-increasingly
+в большей степени-increasingly
+промышленный-industrial
+индустриальный-industrial
+адаптироваться-adapt
+приспосабливаться-adapt
+преднамеренный-deliberate
+умышленный-deliberate
+поразительный-striking
+эффектный-striking
+бармен-bartender
+буфетчик-bartender
+экзотический-exotic
+экзотичный-exotic
+исправлять-correct
+корректировать-correct
+вишня-cherry
+черешня-cherry
+парад-parade
+плац-parade
+интерпретировать-interpret
+трактовать-interpret
+радуга-rainbow
+радужная-rainbow
+стирать-erase
+подчищать-erase
+неожиданно-unexpectedly
+непредвиденно-unexpectedly
+быстро-promptly
+сразу-promptly
+действие от лица кого-то-behalf
+действие в интересах кого-то-behalf
+обязательство-obligation
+обязанность-obligation
+руководство-management
+управление-management
+кислота-acid
+ЛСД-acid
+контраст-contrast
+отличие-contrast
+предложение-proposal
+план-proposal
+кража-theft
+воровство-theft
+инвестиции-investment
+вложения-investment
+магический-magical
+волшебный-magical
+введение-introduction
+внедрение-introduction
+легко-readily
+охотно-readily
+напряжение-strain
+штамм-strain
+поклон-bow
+лук-bow
+широко-widely
+далеко-widely
+вакантный-vacant
+незанятый-vacant
+подавать-submit
+подчиняться-submit
+во многом-largely
+большей частью-largely
+ожидание-expectation
+надежда-expectation
+обрабатывать-process
+перерабатывать-process
+беженец-refugee
+эмигрант-refugee
+возобновлять-renew
+обновлять-renew
+производить-manufacture
+изготовлять-manufacture
+вздох-sigh
+тщательный-thorough
+полный-thorough
+специалист-specialist
+кадры-specialist
+виртуальный-virtual
+фактический-virtual
+укреплять-strengthen
+усиливать-strengthen
+жертвовать-donate
+передавать в дар-donate
+причинять вред-harm
+наносить ущерб-harm
+кривой-bent
+более того-moreover
+кроме того-moreover
+эра-era
+эпоха-era
+напряженный-tense
+натянутый-tense
+торговля-tradingсущ.
+коммерция-tradingсущ.
+исчезновение-disappearance
+искушение-temptation
+соблазн-temptation
+салфетка-napkin
+подгузник-napkin
+мороз-frost
+иней-frost
+бритва-razor
+лезвие-razor
+падать в обморок-faint
+слабеть-faint
+повстанец-rebel
+мятежник-rebel
+выбор времени-timingсущ.
+координация-timingсущ.
+восстановление-recovery
+выздоровление-recovery
+измерение-dimension
+аспект-dimension
+буханка-loaf
+батон-loaf
+веселый-amused
+насмешливый-amused
+странный-bizarre
+эксцентричный-bizarre
+грести-row
+скандалить-row
+эффективно-effectively
+продуктивно-effectively
+перевозить-transport
+транспортировать-transport
+кишка-gut
+живот-gut
+по собственной воле-willingly
+добровольно-willingly
+граничить-border
+окаймлять-border
+садовник-gardener
+садовод-gardener
+пауза-pause
+остановка-pause
+прачечная-laundry
+белье для стирки-laundry
+хитрый-tricky
+сложный-tricky
+что-то противоположное-contrary
+что-то обратное-contrary
+согласие-harmony
+гармония-harmony
+миф-myth
+вымысел-myth
+улов-catch
+подвох-catch
+увлекательный-fascinating
+очаровательный-fascinating
+овальный-oval
+публичность-publicity
+огласка-publicity
+характеристика-characteristic
+особенность-characteristic
+блистательный-sparkling
+канцелярская работа-paperwork
+делопроизводство-paperwork
+рассчитывать время-time
+назначать время-time
+шепот-whisper
+слух-whisper
+открытие-findingсущ.
+находка-findingсущ.
+так называемый-so called
+называемый-so called
+доход-income
+прибыль-income
+доза-dose
+порция-dose
+экономика-economy
+экономия-economy
+препятствовать-discourage
+отговаривать-discourage
+дымоход-chimney
+труба-chimney
+ягода-berry
+по существу-essentially
+существенно-essentially
+лечить-cure
+исцелять-cure
+способствовать-contribute
+сотрудничать-contribute
+поразительный-astonishing
+ошеломительный-astonishing
+лебедь-swan
+бард-swan
+оканчивать учебное заведение-graduate
+получать диплом-graduate
+степень-graduate
+храпеть-snore
+похрапывать-snore
+кий-cue
+сигнал-cue
+временно-temporarily
+на время-temporarily
+плашмя-flat
+ровно-flat
+маркетинг-marketingсущ.
+сбыт-marketingсущ.
+гарантировать-guarantee
+обеспечивать-guarantee
+эксплуатировать-exploit
+использовать-exploit
+ушедший на пенсию-retired
+отставной-retired
+расстраивать-upset
+огорчать-upset
+житель-inhabitant
+обитатель-inhabitant
+изнасилование-rape
+рапс-rape
+перевод-transfer
+трансфер-transfer
+погружение-dive
+пикирование-dive
+жатва-harvest
+урожай-harvest
+продление-extension
+расширение-extension
+сложный-sophisticated
+тонкий-sophisticated
+универсальный-universal
+всеобщий-universal
+прерывание-interruption
+перерыв-interruption
+похоже-alike
+одинаково-alike
+психологический-psychological
+психологичный-psychological
+специализироваться-specialise
+специализировать-specialise
+внутренний-domestic
+домашний-domestic
+жадный-greedy
+прожорливый-greedy
+руководство-guidance
+управление-guidance
+невольный-unwilling
+несклонный-unwilling
+зависть-envy
+предмет зависти-envy
+тепло-warmly
+ад-hell
+преисподняя-hell
+экономический-economic
+хозяйственный-economic
+оценка-estimate
+смета-estimate
+производитель-maker
+изготовитель-maker
+инвестировать-invest
+вкладывать деньги-invest
+прокат-hire
+наем-hire
+уважаемый-respectable
+респектабельный-respectable
+распространять-distribute
+раздавать-distribute
+обязанный-obliged
+вынужденный-obliged
+интенсивный-intensive
+напряженный-intensive
+ссориться-quarrel
+спорить-quarrel
+неуверенный-unsure
+ненадежный-unsure
+стих-verse
+куплет-verse
+ожидание-wait
+медаль-medal
+орден-medal
+адекватный-adequate
+достаточный-adequate
+ограбление-robbery
+грабеж-robbery
+телескоп-telescope
+оптическая подзорная труба-telescope
+недоразумение-misunderstandingсущ.
+недопонимание-misunderstandingсущ.
+включать-feature
+показывать-feature
+неестественный-unnatural
+необычный-unnatural
+волк-wolf
+хищник-wolf
+овладевать-master
+усвоить-master
+подтверждение-confirmation
+конфирмация-confirmation
+полный энтузиазма-enthusiastic
+восторженный-enthusiastic
+развиваться-progress
+прогрессировать-progress
+вулкан-volcano
+сопка-volcano
+хвалить-praise
+восхвалять-praise
+картон-cardboard
+строительный картон-cardboard
+давать право-entitle
+иметь право-entitle
+регулирование-regulation
+правило-regulation
+помечать-tag
+добавлять-tag
+туманный-misty
+неясный-misty
+атом-atom
+мельчайшая частица-atom
+скандал-scandal
+злословие-scandal
+ракета-rocket
+реактивный снаряд-rocket
+недооценивать-underestimate
+занижать-underestimate
+после-following
+вследствие-following
+давать возможность-enable
+разрешать-enable
+обгонять-overtake
+догонять-overtake
+управлять-govern
+править-govern
+лунный свет-moonlight
+действующий совместно-associated
+подчеркивать-emphasise
+придавать значение-emphasise
+землетрясение-earthquake
+потрясение-earthquake
+детский-childish
+ребячливый-childish
+кампус-campus
+территория университета-campus
+частным образом-privately
+неофициально-privately
+симптом-symptom
+признак-symptom
+спелый-ripe
+созревший-ripe
+восхитительный-delightful
+очаровательный-delightful
+штраф-penalty
+наказание-penalty
+учреждение-institution
+организация-institution
+взаимодействовать-interact
+находиться во взаимодействии-interact
+продвижение-promotion
+содействие-promotion
+модернизировать-upgrade
+обновлять-upgrade
+сомнительный-doubtful
+недостоверный-doubtful
+чердак-attic
+мансарда-attic
+неподдельно-genuinely
+искренне-genuinely
+азартная игра-gamblingсущ.
+игорный бизнес-gamblingсущ.
+балансированный-balanced
+гармоничный-balanced
+внешний-external
+наружный-external
+королевский-royal
+демонстрация-demonstration
+доказательство-demonstration
+профессия медсестры-nursingсущ.
+уход-nursingсущ.
+представительный-representative
+показательный-representative
+комментировать-comment
+высказывать мнение-comment
+очень голодный-starving
+умирающий от голода-starving
+оса-wasp
+получать доступ-access
+иметь доступ-access
+квалифицировать-qualify
+иметь право-qualify
+требование-requirement
+необходимое условие-requirement
+спортсмен-профессионал-pro
+профессионал-pro
+поведение-conduct
+ведение-conduct
+ручной-manual
+физический-manual
+освещение-lightingсущ.
+осветительные приборы-lightingсущ.
+метка-marker
+фломастер-marker
+бюджет-budget
+финансовая смета-budget
+терапия-therapy
+лечение-therapy
+обширный-extensive
+масштабный-extensive
+сокращение-slash
+разрез-slash
+консерватор-conservative
+консерватизм-conservative
+честность-honesty
+правдивость-honesty
+первоначальный-initial
+начальный-initial
+существенный-substantial
+значительный-substantial
+оскорбительный-offensive
+наступательный-offensive
+духовный-spiritual
+одухотворенный-spiritual
+рвение-eagerness
+пыл-eagerness
+интеллектуальный-intellectual
+умственный-intellectual
+постоянно-permanently
+надолго-permanently
+рискованный-risky
+опасный-risky
+стоящий-worthwhile
+путный-worthwhile
+органический-organised
+биологический-biological
+эпизод-episode
+серия-episode
+размещать-accommodate
+вмещать-accommodate
+премия-bonus
+бонус-bonus
+органический-organic
+натуральный-organic
+весело-cheerfully
+бодро-cheerfully
+реклама-advertisingсущ.
+рекламный бизнес-advertisingсущ.
+зритель-spectator
+наблюдатель-spectator
+зажим-clip
+заколка-clip
+самостоятельно-independently
+независимо-independently
+литературный-literary
+книжный-literary
+понимать неправильно-misunderstand
+не понимать-misunderstand
+наблюдать-supervise
+надзирать-supervise
+электроника-electronics
+электронная аппаратура-electronics
+в восторге-thrilled
+очень рад-thrilled
+сокровище-treasure
+клад-treasure
+краб-crab
+коллекционер-collector
+коллектор-collector
+сильно-severely
+сурово-severely
+трагический-tragic
+ужасный-tragic
+чихать-sneeze
+начихать-sneeze
+алюминий-aluminium
+неприятность-nuisance
+досада-nuisance
+инфекция-infection
+заражение-infection
+десна-gum
+жвачка-gum
+удовлетворительный-satisfactory
+достаточный-satisfactory
+удаление-disposal
+распоряжение-disposal
+с гордостью-proudly
+гордо-proudly
+выбор-selection
+отбор-selection
+жажда-thirst
+тяга-thirst
+освобождение-release
+релиз-release
+совершенство-perfect
+идеал-perfect
+оценивать-assess
+определять сумму налога-assess
+бензин-gasoline
+газолин-gasoline
+компрометировать-compromise
+идти на компромисс-compromise
+конкурирующий-rival
+соперничающий-rival
+позитивно-positively
+определенно-positively
+сверхъестественный-supernatural
+увеличение-increase
+рост-increase
+растущий-growing
+подрастающий-growing
+обманывать-trick
+обманом заставлять-trick
+приговаривать-sentence
+выносить приговор-sentence
+не одобрять-disapprove
+осуждать-disapprove
+до смерти-stiff
+до изнеможения-stiff
+завидовать-envy
+военный-martial
+воинственный-martial
+удобство-convenience
+комфорт-convenience
+борьба-struggle
+усилие-struggle
+возражать-object
+протестовать-object
+признательность-appreciation
+тонкое восприятие-appreciation
+непрерывный-continuous
+длительный-continuous
+скелет-skeleton
+остов-skeleton
+релевантный-relevant
+уместный-relevant
+извилистый-winding
+вьющийся-winding
+возвращать-repay
+отплачивать-repay
+дорожить-value
+ценить-value
+инвестор-investor
+исследование-exploration
+разведка-exploration
+классический-classic
+образцовый-classic
+тема-theme
+предмет-theme
+утечка-leak
+течь-leak
+тестирование-testingсущ.
+исследование-testingсущ.
+тропический-tropical
+метафорический-tropical
+опрос-survey
+обследование-survey
+жестокость-cruelty
+бессердечие-cruelty
+банкир-banker
+банкомет-banker
+изменение-variation
+разновидность-variation
+обязательство-commitment
+совершение-commitment
+обычный-conventional
+традиционный-conventional
+база данных-database
+банк данных-database
+вдохновение-inspiration
+вдохновляющая идея-inspiration
+минерал-mineral
+полезные ископаемые-mineral
+финансы-finance
+финансовое дело-finance
+определение-definition
+четкость-definition
+печень-liver
+печенка-liver
+воля-will
+желание-will
+особое внимание-emphasis
+ударение-emphasis
+амбициозный-ambitious
+честолюбивый-ambitious
+частичный-partial
+неполный-partial
+отставка-retirement
+выход на пенсию-retirement
+вертикально-upright
+прямо-upright
+психология-psychology
+психика-psychology
+вероятный-probable
+возможный-probable
+согревание-warmingсущ.
+нагрев-warmingсущ.
+оценка-assessment
+суждение-assessment
+углерод-carbon
+уголь-carbon
+поощрение-encouragement
+ободрение-encouragement
+распадаться-decay
+разрушаться-decay
+жир-fat
+сало-fat
+царство-kingdom
+королевство-kingdom
+различие-distinction
+отличие-distinction
+треугольник-triangle
+угольник для черчения-triangle
+компромисс-compromise
+компрометация-compromise
+редактировать-edit
+скрывать-screen
+перебирать-screen
+средневековый-medieval
+слух-hearingсущ.
+прослушивание-hearingсущ.
+злоупотребление-abuse
+оскорбление-abuse
+дипломат-diplomat
+дипломатический работник-diplomat
+страстный-passionate
+пылкий-passionate
+издатель-publisher
+владелец газеты-publisher
+слайд-slide
+горка-slide
+курсор-cursor
+указатель-cursor
+в целом-overall
+повсюду-overall
+повсюду-throughout
+на протяжении-throughout
+детский сад-nursery
+детская комната-nursery
+присуждение-award
+премия-award
+различаться-differ
+отличаться-differ
+глобальный-global
+общий-global
+издание-edition
+редакция-edition
+пинта (GB 0,57 л) (US 0,473 л)-pint
+кружка-pint
+легально-legally
+юридически-legally
+простой-straightforward
+прямой-straightforward
+слог-syllable
+звук-syllable
+ядовитый-poisonous
+отвратительный-poisonous
+прямоугольный-rectangular
+четырехугольный-rectangular
+академический-academic
+учебный-academic
+мусор-litter
+помет-litter
+участие-involvement
+вовлечение-involvement
+ужасающий-terrifying
+устрашающий-terrifying
+производитель-producer
+продюсер-producer
+одержимость-obsession
+навязчивая идея-obsession
+участвовать-participate
+принимать участие-participate
+известность-fame
+слава-fame
+сова-owl
+филин-owl
+великолепный-superb
+превосходный-superb
+тривиальный-trivial
+незначительный-trivial
+навигация-navigation
+плавание-navigation
+украшение-decoration
+отделка-decoration
+неудачный-failed
+неудавшийся-failed
+высокоуважаемый-respected
+доля-share
+акция-share
+лирика-lyric
+стих-lyric
+сексуальный-sexy
+эротический-sexy
+гибкий-flexible
+свободный-flexible
+критика-criticism
+критицизм-criticism
+невыносимый-unbearable
+непосильный-unbearable
+входные данные-input
+ввод данных-input
+вещи-belongings
+пожитки-belongings
+критически-critically
+критично-critically
+компетентность-expertise
+экспертиза-expertise
+эмоционально-emotionally
+растроганно-emotionally
+какой угодно-whichever
+какой бы ни-whichever
+требующий усилий-demanding
+требовательный-demanding
+предубеждение-prejudice
+предрассудок-prejudice
+форум-forum
+съезд-forum
+промокший насквозь-soaked
+мокрый-soaked
+поскольку-whereas
+тогда как-whereas
+шурин-brother in law
+свояк-brother in law
+зрелый-mature
+выношенный-mature
+рекомендация-recommendation
+совет-recommendation
+исследователь-researcher
+научный сотрудник-researcher
+великолепный-stunning
+домовладелец-landlord
+помещик-landlord
+леопард-leopard
+барс-leopard
+ключевой-crucial
+решающий-crucial
+контекст-context
+ситуация-context
+грабитель-burglar
+взломщик-burglar
+в финансовом отношении-financially
+материально-financially
+безответственный-irresponsible
+несознательный-irresponsible
+возмутительный-outrageous
+скандальный-outrageous
+непривлекательный-unattractive
+малопривлекательный-unattractive
+процент-percentage
+часть-percentage
+крайность-extreme
+перепад-extreme
+бедность-poverty
+нужда-poverty
+фотографировать-photograph
+сфотографировать-photograph
+наносить на карту-map
+составлять карту-map
+желательный-desirable
+желанный-desirable
+непредсказуемый-unpredictable
+непредвиденный-unpredictable
+вклад-contribution
+взнос-contribution
+импортировать-import
+ввозить-import
+философ-philosopher
+осуществлять-implement
+выполнять-implement
+кладбище-cemetery
+могильник-cemetery
+вопрос-query
+запрос-query
+мирно-peacefully
+тихо-мирно-peacefully
+позор-disgrace
+немилость-disgrace
+средства-facilities
+возможности-facilities
+наводящий уныние-depressing
+унылый-depressing
+противоречить-conflict
+конфликтовать-conflict
+поломка-breakdown
+нарушение-breakdown
+бампер-bumper
+буфер-bumper
+ширина-width
+широта-width
+точность-accuracy
+правильность-accuracy
+действительный-valid
+веский-valid
+племя-tribe
+клан-tribe
+лишать-deprive
+отнимать-deprive
+стимулировать-stimulate
+возбуждать-stimulate
+соответствующий-matching
+подобранный в тон-matching
+нестабильный-unstable
+неустойчивый-unstable
+мотивация-motivation
+заинтересованность-motivation
+критик-critic
+рецензент-critic
+пшеница-wheat
+сорт пшеницы-wheat
+факультет-faculty
+способность-faculty
+разводиться-divorce
+развестись-divorce
+благосостояние-welfare
+благополучие-welfare
+категория-category
+разряд-category
+относительно-concerning
+о-concerning
+отделение-separation
+разделение-separation
+повышать-boost
+форсировать-boost
+коммерция-commerce
+торговля-commerce
+главным образом-primarily
+прежде всего-primarily
+зависимый-dependant
+иждивенческий-dependant
+кроме того-furthermore
+более того-furthermore
+абстрактный-abstract
+отвлеченный-abstract
+психолог-psychologist
+первоначально-initially
+в начальной стадии-initially
+крокодил-crocodile
+гулянье парами-crocodile
+продуктивно-efficiently
+эффективно-efficiently
+экономный-economical
+экономичный-economical
+идеально-ideally
+в идеале-ideally
+замена-substitute
+заместитель-substitute
+функционирующий-functional
+работоспособной-functional
+понятный-understandable
+ясный-understandable
+одержимый-obsessed
+необычайным образом-extraordinarily
+необычно-extraordinarily
+экспериментировать-experiment
+пробовать-experiment
+пригород-suburb
+предместья-suburb
+перехватывать-tackle
+приниматься за-tackle
+критиковать-criticise
+осуждать-criticise
+изгиб-bend
+поворот-bend
+революционный-revolutionary
+вращающийся-revolutionary
+составлять-amount
+достигать-amount
+стадион-stadium
+стадий-stadium
+случайный-accidental
+неожиданный-accidental
+переставлять-rearrange
+перестраивать-rearrange
+соответствовать-correspond
+переписываться-correspond
+складной-folding
+раскладной-folding
+трусливый-cowardly
+малодушный-cowardly
+пьяный-drunk
+икона-icon
+значок-icon
+городской-urban
+урбанизированный-urban
+суперский-super
+отличный-super
+меч-sword
+шпага-sword
+парламент-parliament
+имбирный пряник-parliament
+раздавливать-squash
+давить-squash
+прежде-formerly
+раньше-formerly
+помощник-helper
+подручный-helper
+шлем-helmet
+каска-helmet
+булочка-bun
+пучок волос-bun
+трофей-trophy
+награда-trophy
+звуковой-audio
+аудио--audio
+долгосрочный-long term
+длительный-long term
+потенциально-potentially
+возможно-potentially
+эксклюзивный-exclusive
+единственный-exclusive
+нехватка-shortage
+недобор-shortage
+соседний-neighbouring
+близлежащий-neighbouring
+бурный-stormy
+штормовой-stormy
+диалог-dialogue
+разговор-dialogue
+дневное время-daytime
+день-daytime
+оптимистичный-optimistic
+оптимистический-optimistic
+сходство-similarity
+подобие-similarity
+партнерство-partnership
+сотрудничество-partnership
+кабриолет-gig
+двуколка-gig
+панк-punk
+сопляк-punk
+береговой-coastal
+прибрежный-coastal
+демократия-democracy
+демократизм-democracy
+карнавал-carnival
+парк развлечений-carnival
+зритель-viewer
+осмотрщик-viewer
+предсказуемый-predictable
+прогнозируемый-predictable
+предварительный-advance
+авансовый-advance
+спортивный-athletic
+атлетический-athletic
+крайний срок-deadline
+предельный срок-deadline
+влиять-influence
+оказывать влияние-influence
+справедливо-rightly
+правильно-rightly
+поселенец-settler
+отстойник-settler
+предпочтение-preference
+преференция-preference
+драматично-dramatically
+резко-dramatically
+интерактивный-interactive
+диалоговый-interactive
+дальний-long distance
+отдаленный-long distance
+моделировать-model
+быть моделью-model
+наслаждение-enjoyment
+удовольствие-enjoyment
+педаль-pedal
+ножной рычаг-pedal
+невероятный-fabulous
+потрясающий-fabulous
+бомбардировщик-bomber
+бомбометатель-bomber
+умножать-multiply
+увеличивать-multiply
+благоприятный-favourable
+благосклонный-favourable
+исследовать-research
+изучить-research
+художественный-artistic
+артистический-artistic
+репетитор-tutor
+наставник-tutor
+предсказание-prediction
+прогноз-prediction
+кооперативный-cooperative
+согласованно действующий-cooperative
+соленый-salty
+пикантный-salty
+чрезмерный-unreasonable
+неблагоразумный-unreasonable
+крекер (сухое печенье)-cracker
+хлопушка-cracker
+прибыльный-profitable
+выгодный-profitable
+тележка-trolley
+вагонетка-trolley
+увольнять-sack
+грабить-sack
+рабочий стол-desktop
+крышка письменного стола-desktop
+мелко-finely
+тонко-finely
+привязанность-attachment
+прикрепление-attachment
+реалистичный-realistic
+реалистический-realistic
+спортивный-sporting
+охотничий-sporting
+региональный-regional
+областной-regional
+блестяще-brilliantly
+блистательно-brilliantly
+заботливый-caring
+ресница-eyelash
+ресничка-eyelash
+щедрость-generosity
+великодушие-generosity
+отдельно-separately
+особо-separately
+лектор-lecturer
+преподаватель-lecturer
+вызывающий раздражение-irritating
+надоедливый-irritating
+складка-fold
+сгиб-fold
+решающий-decisive
+решительный-decisive
+неизменившийся-unchanged
+оставшийся прежним-unchanged
+вежливость-politeness
+учтивость-politeness
+отчет-reportingсущ.
+представление информации-reportingсущ.
+экспорт-export
+вывоз-export
+самонаводящийся снаряд-seeker
+ловец-seeker
+мята-mint
+мятная конфета-mint
+преданный-devoted
+беззаветный-devoted
+понимание-understandingсущ.
+договоренность-understandingсущ.
+лечебное средство-remedy
+лекарство-remedy
+публикация-publication
+издание-publication
+дилемма-dilemma
+затруднительное положение-dilemma
+предстоящий-forthcoming
+ожидаемый-forthcoming
+технологический-technological
+репетиция-rehearsal
+повторение-rehearsal
+следовательно-consequently
+в результате-consequently
+планирование-planningсущ.
+план застройки-planningсущ.
+меньшинство-minority
+меньшая часть-minority
+беспечно-carelessly
+небрежно-carelessly
+жилой-residential
+связанный с местом жительства-residential
+расширение-expansion
+рост-expansion
+отчим-stepfather
+многозначительный-meaningful
+значительный-meaningful
+дирижер-conductor
+проводник-conductor
+иммигрант-immigrant
+переселенец-immigrant
+энергичный-energetic
+активный-energetic
+парашют-parachute
+купол парашюта-parachute
+присуждать-award
+награждать-award
+основывать-base
+базироваться-base
+пудинг-pudding
+десерт-pudding
+президентский-presidential
+беглый-fluent
+свободно говорящий-fluent
+резюме-summary
+краткое изложение-summary
+перекресток-crossroad
+перепутье-crossroad
+сельский-rural
+деревенский-rural
+ободрительный-encouraging
+обнадеживающий-encouraging
+храбрость-bravery
+отвага-bravery
+царапина-scratch
+скрип-scratch
+недовольство-dissatisfaction
+неудовлетворенность-dissatisfaction
+императив-imperative
+повеление-imperative
+каталог-catalogue
+каталогизация-catalogue
+недействительный-unavailable
+недосягаемый-unavailable
+широко-extensively
+сильно-extensively
+современный-contemporary
+из одной эпохи-contemporary
+сносить-demolish
+разрушать-demolish
+пенсия-pension
+пансионат-pension
+величие-greatness
+величина-greatness
+поручать-commission
+заказывать-commission
+выдающийся-outstanding
+незаурядный-outstanding
+неограниченный-unlimited
+безграничный-unlimited
+токсический-toxic
+ядовитый-toxic
+графика-graphic
+рисунок-graphic
+разногласие-disagreement
+ссора-disagreement
+статистика-statistic
+статистические данные-statistic
+исключительный-exceptional
+незаурядный-exceptional
+уверенно-confidently
+с уверенностью-confidently
+хор-choir
+хоры-choir
+рентгеновское излучение-x ray
+рентгеновский снимок-x ray
+ярко-vividly
+живо-vividly
+указывать-specify
+уточнять-specify
+продолжительно-continuously
+беспрерывно-continuously
+иллюстрировать-illustrate
+пояснять-illustrate
+обновленная информация-update
+последние данные-update
+доступный-accessible
+достижимый-accessible
+потребитель-consumer
+потребительский-consumer
+непослушный-naughty
+озорной-naughty
+мощно-powerfully
+сильно-powerfully
+важно-importantly
+с важным видом-importantly
+математический-mathematical
+измерение-measurement
+обмер-measurement
+демократический-democratic
+демократичный-democratic
+блин-pancake
+оладья-pancake
+керамика-pottery
+гончарня-pottery
+искусный-skilful
+умелый-skilful
+неофициальный-informal
+неформальный-informal
+диссертация-thesis
+тезис-thesis
+сплетничать-gossip
+болтать-gossip
+экономист-economist
+бережливый человек-economist
+захват-capture
+снимок-capture
+писатель-романист-novelist
+аналитик-analyst
+обозреватель-analyst
+запрещать-ban
+налагать запрет-ban
+отдых-recreation
+развлечение-recreation
+инфляция-inflation
+вздутие-inflation
+теплица-greenhouse
+оранжерея-greenhouse
+с восторгом-enthusiastically
+с энтузиазмом-enthusiastically
+верно-faithfully
+честно-faithfully
+консультант-consultant
+консультант компании-consultant
+прорыв-breakthrough
+открытие-breakthrough
+консервированный-canned
+заготовленный заранее-canned
+гражданин-national
+соотечественник-national
+неудобный-inconvenient
+затруднительный-inconvenient
+существенно-significantly
+значительно-significantly
+пекарня-bakery
+булочная-bakery
+предпочтительно-preferably
+лучше-preferably
+подставлять-substitute
+заменять-substitute
+незабываемый-memorable
+памятный-memorable
+раскол-split
+прорезь-split
+активно-actively
+предложенный-proposed
+выдвинутый-proposed
+джинсовая ткань-denim
+мачеха-stepmother
+стиль жизни-lifestyle
+образ жизни-lifestyle
+мировой-worldwide
+всемирный-worldwide
+смерч-tornado
+торнадо-tornado
+могила-tomb
+гробница-tomb
+жестоко-cruelly
+мучительно-cruelly
+образовательный-educational
+учебный-educational
+классика-classic
+классическое произведение-classic
+утомительный-exhausting
+изнурительный-exhausting
+промокший до нитки-soaking
+также не-neither
+тоже не-neither
+жизнь-livingсущ.
+средства к существованию-livingсущ.
+невестка-sister in law
+золовка-sister in law
+теща-mother in law
+свекровь-mother in law
+поддержка-boost
+повышение-boost
+крах-collapse
+коллапс-collapse
+производитель-manufacturer
+промышленник-manufacturer
+кража со взломом-burglary
+ограбление со взломом-burglary
+эскалатор-escalator
+готовность-willingness
+желание-willingness
+анимация-animation
+воодушевление-animation
+кронштейн-bracket
+группа-bracket
+выделять-highlight
+заострять внимание-highlight
+высокотехнологичный-high tech
+скатерть-tablecloth
+переписывать-rewrite
+перезаписывать-rewrite
+качели-swing
+замах-swing
+ссылаться-cite
+цитировать-cite
+несчастье-unhappiness
+грусть-unhappiness
+молния-zipper
+ботинки или сапоги на молнии-zipper
+по глупости-foolishly
+глупо-foolishly
+декоративный-decorative
+фигурный-decorative
+по общему признанию-admittedly
+предположительно-admittedly
+обеспокоенный-bothered
+надоевший-bothered
+удобно-conveniently
+без труда-conveniently
+остроумный-witty
+шутливый-witty
+бесценный-priceless
+неоценимый-priceless
+взрыв-bang
+грохот-bang
+бомбежка-bombingсущ.
+бомбардировка-bombingсущ.
+под водой-underwater
+информация-info
+сообщения-info
+свекор-father in law
+тесть-father in law
+окаменелость-fossil
+ископаемое-fossil
+манеры-manners
+воспитание-manners
+творчески-creatively
+креативно-creatively
+сольный-solo
+самостоятельный-solo
+всплывать-surface
+внезапно появляться-surface
+зять-son in law
+домовладелица-landlady
+помещица-landlady
+развитой-educated
+предпочтительный-preferable
+предпочитаемый-preferable
+расовый-racial
+уплотненный-packed
+фасованный-packed
+подчеркивать-stress
+подвергать напряжению-stress
+теснота-tightness
+герметичность-tightness
+неопытный-inexperienced
+желторотый-inexperienced
+хуже всего-worst
+горячо-passionately
+неистово-passionately
+за морем-overseas
+за границей-overseas
+погуглить-google
+смешанный-mixed
+разнородный-mixed
+занимательный-entertaining
+развлекательный-entertaining
+существующий-existing
+тренировать-coach
+натаскивать-coach
+пожертвование-donation
+дарение-donation
+уксус-vinegar
+нелюбезный ответ-vinegar
+изучение-learningсущ.
+обучение-learningсущ.
+нереальный-unrealistic
+нереалистичный-unrealistic
+порода-breed
+поколение-breed
+водонепроницаемый-waterproof
+непромокаемый-waterproof
+заглавный-capital
+столичный-capital
+всплеск-splash
+брызги-splash
+наркоман-addict
+поклонник-addict
+спад-recession
+рецессия-recession
+невинно-innocently
+наивно-innocently
+получать выгоду-benefit
+извлекать преимущества-benefit
+зрение-eyesight
+кругозор-eyesight
+весящий больше нормы-overweight
+грузный-overweight
+окаменелый-petrified
+элегантно-elegantly
+изящно-elegantly
+находящийся под угрозой-endangered
+подвергаемый опасности-endangered
+выставлять счет-bill
+объявлять в афишах-bill
+график-graph
+диаграмма-graph
+последний-last minute
+осуществляемый в последнюю минуту-last minute
+лавочник-shopkeeper
+управляющий или владелец магазина-shopkeeper
+стоматологический-dental
+зубной-dental
+известный-distinguished
+выдающийся-distinguished
+пункт-clause
+статья-clause
+основной момент-highlight
+подсветка-highlight
+динамический-dynamic
+динамичный-dynamic
+дружелюбие-friendliness
+дружественное отношение-friendliness
+садоводство-gardeningсущ.
+садовод-gardeningсущ.
+усыновление-adoption
+принятие-adoption
+просматривать-browse
+пролистать-browse
+бикини-bikini
+мини-бикини-bikini
+морально-morally
+в нравственном отношении-morally
+ненадежный-unreliable
+неблагонадежный-unreliable
+наркомания-addiction
+зависимость-addiction
+раздетый-undressed
+необработанный-undressed
+постепенный-gradual
+последовательный-gradual
+размещение-placement
+помещение-placement
+редакционный-editorial
+редакторский-editorial
+положительный-plus
+более-plus
+захватывающий-thrilling
+увлекательный-thrilling
+равенство-equality
+равноправие-equality
+щедро-generously
+великодушно-generously
+воспитание-upbringing
+азартная игра-gamingсущ.
+игра-gamingсущ.
+отзыв-feedback
+отклик-feedback
+под землей-underground
+подпольно-underground
+витамин-vitamin
+загрязнять-pollute
+осквернять-pollute
+тире-dash
+рывок-dash
+огорчительный-distressing
+плачевный-distressing
+неисправный-faulty
+ошибочный-faulty
+неудовлетворенный-dissatisfied
+недовольный-dissatisfied
+живописный-picturesque
+колоритный-picturesque
+кредитовать-credit
+доверять-credit
+бульварная газета-tabloid
+желтая пресса-tabloid
+запрет-ban
+запрещение-ban
+незаконно-illegally
+нелегально-illegally
+скрининг-screeningсущ.
+экранирование-screeningсущ.
+прогрессивный-progressive
+передовой-progressive
+поставщик-supplier
+снабженец-supplier
+соответствующим образом-appropriately
+поразительный-breathtaking
+захватывающий-breathtaking
+конкурентный-competitive
+конкурентоспособный-competitive
+смелый-adventurous
+авантюрный-adventurous
+марафон-marathon
+марафонский бег-marathon
+агрессивно-aggressively
+нечестный-dishonest
+мошеннический-dishonest
+дизайнерский-designer
+авторский-designer
+приблизительный-approximate
+приближенный-approximate
+пол-gender
+род-gender
+спонсор-sponsor
+поручитель-sponsor
+традиционно-traditionally
+по традиции-traditionally
+безуспешный-unsuccessful
+неудачный-unsuccessful
+финансировать-sponsor
+спонсировать-sponsor
+терроризм-terrorism
+неясный-unclear
+непонятный-unclear
+полезный-beneficial
+выгодный-beneficial
+питательное вещество-nutrient
+вещество-nutrient
+чайная ложка-teaspoon
+чайная-teaspoon
+адекватно-adequately
+в достаточной мере-adequately
+уверенность в себе-self confidence
+самоуверенность-self confidence
+преступник-offender
+правонарушитель-offender
+условия-terms
+гонорар-terms
+полуфинал-semifinal
+незамедлительный-prompt
+проворный-prompt
+сокращение-reduction
+уменьшение-reduction
+ноготь на пальце ноги-toenail
+ноготь-toenail
+изобретатель-inventor
+выдумщик-inventor
+кратковременный-short term
+краткосрочный-short term
+генетика-genetics
+спрашивать-enquire
+исследовать-enquire
+художественное оформление-artwork
+произведение искусства-artwork
+место встречи-venue
+место проведения-venue
+популярность-popularity
+распространенность-popularity
+сельское хозяйство-agriculture
+агрономия-agriculture
+аморальный-immoral
+безнравственный-immoral
+называть-title
+называться-title
+сверхурочная работа-overtime
+дополнительное время-overtime
+семинар-seminar
+научная конференция-seminar
+гибкость-flexibility
+уступчивость-flexibility
+неприемлемый-unacceptable
+нежелательный-unacceptable
+усталость-tiredness
+утомление-tiredness
+благодарение-thanksсущ.
+благодарность-thanksсущ.
+не принимать в расчет-discount
+уценить-discount
+оспаривать-contest
+конкурировать-contest
+разнообразный-varied
+различный-varied
+производство-manufacturingсущ.
+обрабатывающая промышленность-manufacturingсущ.
+тревожный-worrying
+бестселлер-bestseller
+автор бестселлера-bestseller
+в электронном виде-electronically
+плохо организованный-disorganised
+неорганизованный-disorganised
+запрещать-prohibit
+мешать-prohibit
+союз-conjunction
+конъюнкция-conjunction
+неудовлетворительный-unsatisfactory
+сохранение-conservation
+охрана природы-conservation
+сотрудничать-cooperate
+содействовать-cooperate
+протестующий-protester
+протестант-protester
+экологический-ecological
+экологически чистый-ecological
+композитор-composer
+автор-composer
+участие-participation
+соучастие-participation
+цунами-tsunami
+глобально-globally
+во всем мире-globally
+упразднять-abolish
+отменять-abolish
+журналистика-journalism
+профессия журналиста-journalism
+резиновый-rubber
+каучуковый-rubber
+во-вторых-secondly
+кроме того-secondly
+спасение-savingсущ.
+экономия-savingсущ.
+издательское дело-publishingсущ.
+издательство-publishingсущ.
+вредный-harmful
+пагубный-harmful
+давать определение-term
+называть-term
+жанр-genre
+стиль-genre
+устный-oral
+оральный-oral
+искусственно-artificially
+притворно-artificially
+психологически-psychologically
+невестка-daughter in law
+сноха-daughter in law
+курильщик-smoker
+курящий-smoker
+фантастически-fantastically
+невообразимо-fantastically
+превратно-wrongly
+неправильно-wrongly
+лишний-redundant
+излишний-redundant
+общаться-socialise
+обобществлять-socialise
+непопулярный-unpopular
+не пользующийся любовью-unpopular
+инвалидность-disability
+неспособность-disability
+разнообразный-diverse
+разный-diverse
+наконец-lastly
+в заключение-lastly
+молния-zip
+свист-zip
+кардиган-cardigan
+джемпер-cardigan
+голосование-votingсущ.
+выборы-votingсущ.
+двоеточие-colon
+электрик-electrician
+электромеханик-electrician
+термометр-thermometer
+градусник-thermometer
+предприниматель-entrepreneur
+антрепренер-entrepreneur
+президентство-presidency
+председательство-presidency
+спорный-controversial
+дискуссионный-controversial
+большая креветка-prawn
+лангустин (маленький лобстер)-prawn
+неточный-inaccurate
+неправильный-inaccurate
+водопроводчик-plumber
+паяльщик-plumber
+списывать деньги-debit
+снимать со счета-debit
+сотрудничество-cooperation
+взаимодействие-cooperation
+заключать в тюрьму-jail
+сажать в тюрьму-jail
+организатор-organiser
+вводящий в заблуждение-misleading
+обманчивый-misleading
+креативность-creativity
+творческие способности-creativity
+теле- или радиопередача-broadcast
+трансляция-broadcast
+деловая часть города-downtown
+центр города-downtown
+невежливый-impolite
+неучтивый-impolite
+общественное питание-cateringсущ.
+поставка провизии и напитков-cateringсущ.
+судья-referee
+рефери-referee
+стоять в очереди-queue
+заплетать в косу-queue
+триллион-trillion
+бегло-fluently
+плавно-fluently
+хорошо построенный-well built
+хорошо сложенный-well built
+шикарный-posh
+аристократический-posh
+плотно-densely
+густо-densely
+прогнозировать-forecast
+предсказывать-forecast
+научно-scientifically
+буклет-booklet
+брошюра-booklet
+претендент-applicant
+кандидат-applicant
+во-первых-firstly
+прежде всего-firstly
+сезонный-seasonal
+конферансье-entertainer
+эстрадный артист-entertainer
+комик-comedian
+комедийный актер-comedian
+неподходящий-unsuitable
+неподобающий-unsuitable
+зебра-zebra
+вспыльчивый-bad tempered
+раздражительный-bad tempered
+штрафовать-fine
+почасовой-hourly
+ежечасный-hourly
+экстракт-extract
+выдержка-extract
+милостыня-handout
+подаяние-handout
+пессимистический-pessimistic
+пессимистичный-pessimistic
+лень-laziness
+леность-laziness
+варочный-boiling
+листовка-leaflet
+листочек-leaflet
+экспортировать-export
+вывозить-export
+фармацевт-pharmacist
+провизор-pharmacist
+в сложившихся обстоятельствах-considering
+учитывая обстоятельства-considering
+идиома-idiom
+идиоматическое выражение-idiom
+модернизация-upgrade
+усовершенствование-upgrade
+учащийся-learner
+ученик-learner
+баклажан-aubergine
+несправедливо-unfairly
+незаконно-unfairly
+тонна-tonne
+метрическая тонна-tonne
+автомобилист-motorist
+автолюбитель-motorist
+нахальный-cheeky
+наглый-cheeky
+обязательный-compulsory
+принудительный-compulsory
+во всем мире-worldwide
+по всему миру-worldwide
+шишковатый-bossy
+выпуклый-bossy
+наличие-availability
+пригодность-availability
+ревниво-jealously
+ревностно-jealously
+порей-leek
+лук-порей-leek
+профилактика-prevention
+предупреждение-prevention
+близорукий-nearsighted
+беглость-fluency
+плавность-fluency
+в одиночку-solo
+звуковая дорожка-soundtrack
+звуковое сопровождение-soundtrack
+заморский-overseas
+заграничный-overseas
+самоуверенный-self confident
+уверенный в себе-self confident
+двойник-double
+номер для двоих-double
+дополнительно-additionally
+кроме того-additionally
+уравновешенный-well balanced
+хорошо сбалансированный-well balanced
+алфавитный-alphabetical
+азбучный-alphabetical
+нечестность-dishonesty
+обман-dishonesty
+таблица-spreadsheet
+электронная таблица-spreadsheet
+баклажан-eggplant
+возглавлять-chair
+председательствовать-chair
+программа просмотра-browser
+покупатель-browser
+грабить-burgle
+быть взломщиком-burgle
+виолончель-cello
+общительный-communicative
+коммуникативный-communicative
+закладка-bookmark
+букмарк-bookmark
+расизм-racism
+программирование-programmingсущ.
+или же-alternatively
+поочередно-alternatively
+культурно-culturally
+отрицательно-negatively
+негативно-negatively
+общенародный-nationwide
+общенациональный-nationwide
+необязательный-optional
+факультативный-optional
+сверхурочно-overtime
+бесполезный-unhelpful
+непродуктивный-unhelpful
+остановка-stopover
+пересадка-stopover
+благодарность-thanks
+диктор-broadcaster
+передатчик-broadcaster
+дебет-debit
+дебетование-debit
+ежегодно-annually
+соло-solo
+сольный номер-solo
+общий-overall
+полный-overall
+хрупкий-breakable
+ломкий-breakable
+приставка-prefix
+префикс-prefix
+система-broadband
+широкополосная связь-broadband
+определяющее слово-determiner
+определитель-determiner
+немодный-unfashionable
+оркестровый-orchestral
+плюс-plus
+преимущество-plus
+предъявитель-presenter
+ведущий программы-presenter
+экологически-ecologically
+с экологической точки-ecologically
+доступный-affordable
+по средствам-affordable
+экологично-environmentally
+экологически-environmentally
+апостроф-apostrophe
+апострофа-apostrophe
+суффикс-suffix
+окончание-suffix
+гимнастический-gymnastic
+дефис-hyphen
+соединительная черточка-hyphen
+по всей стране-nationwide
+в национальном масштабе-nationwide
+точка с запятой-semicolon
+весы-scales
+переходный-transitive
+транзитивный-transitive
+расположение-collocation
+словосочетание-collocation
+непереходный-intransitive
+небеса-heaven
+небо-heaven
+глоток-swallow
+ласточка-swallow
+присутствие-presence
+распределенный-distributed
+распространяемый-distributed

@@ -1,0 +1,39 @@
+AI (Artificial Intelligence) [ˌeɪ ˈaɪ] – искусственный интеллект
+AGI (Artificial General Intelligence) [ˌeɪ dʒiː ˈaɪ] – универсальный ИИ
+ANI (Artificial Narrow Intelligence) [ˌeɪ ɛn ˈaɪ] – узкий ИИ
+machine learning (ML) [məˈʃin ˈlɜrnɪŋ] – машинное обучение
+deep learning [ˈdip ˈlɜrnɪŋ] – глубокое обучение
+neural network [ˈnʊrəl ˈnɛtwɜrk] – нейронная сеть
+algorithm [ˈælɡəˌrɪðəm] – алгоритм
+training data [ˈtreɪnɪŋ ˈdeɪtə] – обучающие данные
+model [ˈmɑdəl] – модель
+supervised learning [ˈsupərvaɪzd ˈlɜrnɪŋ] – обучение с учителем
+unsupervised learning [ˌʌnsʊpərˈvaɪzd ˈlɜrnɪŋ] – обучение без учителя
+reinforcement learning [ˌriːɪnˈfɔrsmənt ˈlɜrnɪŋ] – обучение с подкреплением
+semi-supervised learning [ˈsɛmi ˈsupərvaɪzd ˈlɜrnɪŋ] – частичное обучение
+transfer learning [ˈtrænsfɜr ˈlɜrnɪŋ] – трансферное обучение
+CNN (Convolutional Neural Network) [ˌsiː ɛn ˈɛn] – сверточная нейросеть
+RNN (Recurrent Neural Network) [ˌɑr ɛn ˈɛn] – рекуррентная нейросеть
+LSTM (Long Short-Term Memory) [ˌɛl ɛs tiː ˈɛm] – сеть с долгой краткосрочной памятью
+GAN (Generative Adversarial Network) [ɡæn] – генеративно-состязательная сеть
+transformer [trænsˈfɔrmər] – трансформер
+NLP (Natural Language Processing) [ˌɛn ɛl ˈpiː] – обработка естественного языка
+computer vision [kəmˈpjutər ˈvɪʒən] – компьютерное зрение
+speech recognition [ˈspitʃ ˌrɛkəɡˈnɪʃən] – распознавание речи
+robotics [roʊˈbɑtɪks] – робототехника
+autonomous systems [ɔˈtɑnəməs ˈsɪstəmz] – автономные системы
+bias [ˈbaɪəs] – смещение (в данных)
+explainable AI (XAI) [ɪkˈspleɪnəbəl ˌeɪ ˈaɪ] – объяснимый ИИ
+AI ethics [ˌeɪ ˈaɪ ˈɛθɪks] – этика ИИ
+job displacement [ˈdʒɑb dɪsˈpleɪsmənt] – вытеснение рабочих мест
+singularity [ˌsɪŋɡjəˈlærəti] – технологическая сингулярность
+TensorFlow [ˈtɛnsərˌfloʊ] – фреймворк от Google
+PyTorch [ˈpaɪˌtɔrtʃ] – фреймворк от Facebook
+Keras [ˈkɛrəs] – высокоуровневая библиотека
+OpenAI [ˈoʊpənˌeɪ ˈaɪ] – компания (создатели ChatGPT)
+Hugging Face [ˈhʌɡɪŋ feɪs] – платформа для NLP
+chatbot [ˈtʃætˌbɑt] – чат-бот
+recommendation system [ˌrɛkəmənˈdeɪʃən ˈsɪstəm] – рекомендательная система
+autonomous vehicle [ɔˈtɑnəməs ˈviːɪkəl] – беспилотный автомобиль
+facial recognition [ˈfeɪʃəl ˌrɛkəɡˈnɪʃən] – распознавание лиц
+predictive analytics [prɪˈdɪktɪv ˌænəˈlɪtɪks] – прогнозная аналитика
