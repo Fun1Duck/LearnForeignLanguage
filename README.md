@@ -114,3 +114,7 @@ python main.py
 * [ ] FastAPI web dashboard for user analytics and custom vocabulary imports.
 
 ---
+
+## 📄 Copyright
+Copyright © 2026 Dmitry Volodin. All Rights Reserved.
+This repository is published for portfolio and demonstration purposes only.
